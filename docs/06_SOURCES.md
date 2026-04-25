@@ -25,6 +25,8 @@
 
 - **2026-04-25 — Batch 8 (Chapter 14 — predictions, futures, accountability, 3 entries).** Web-verified against Profile Books, Basic Books, Crown / Penguin Random House, Open Library, Wikipedia, ResearchGate, and Goodreads. Result: **3 ✓ VERIFIED, 0 ⏳ PARTIAL, 0 ✗ UNVERIFIED.** Brand, Tetlock & Gardner, Davies all confirmed against publisher records. No discrepancies. Chapter 14 — *What 2040 Will Have Learned* — is now drafting-ready.
 
+- **2026-04-25 — Batch 3 (Chapter 8 — creators / Maker's Dilemma, 7 entries).** Web-verified against Penguin Random House, Pantheon, Houghton Mifflin Harcourt, Shambhala, Hackett Publishing, Farrar Straus and Giroux, Cambridge University Press, Open Library, Wikipedia, AbeBooks, Internet Archive, PhilPapers, and standard antiquarian catalogues. Result: **7 ✓ VERIFIED, 0 ⏳ PARTIAL, 0 ✗ UNVERIFIED.** Berger × 2 (*Ways of Seeing*, *About Looking*), Le Guin × 2 (*Steering the Craft*, *The Wave in the Mind*), Tolstoy (*What Is Art?*), Robinson (*The Givenness of Things*), and Lewis (*An Experiment in Criticism*) all confirmed against publisher records. Two editorial edition decisions surfaced and resolved by AI under director delegation (logged in `03_DECISIONS.md`): (a) Le Guin *Steering the Craft* — cite the 2015 Mariner / Houghton Mifflin Harcourt revised edition as canonical, with the 1998 Eighth Mountain Press original noted as the historical first edition; (b) Tolstoy *What Is Art?* — cite the Hackett 1995 reprint of the Aylmer Maude translation (Vincent Tomas introduction) as the citing text, with the 1899 Walter Scott Ltd. London edition preserved in the bibliography as the original English-language publication. Chapter 8 — *The Maker's Dilemma* — is now drafting-ready.
+
 ---
 
 ## Foundational — applies across the book
@@ -90,13 +92,13 @@
 
 ## Chapter 8 — The Maker's Dilemma (Creators)
 
-- ✗ **[P]** Berger, John. *Ways of Seeing*. London: BBC and Penguin, 1972.
-- ✗ **[P]** Berger, John. *About Looking*. New York: Pantheon, 1980.
-- ✗ **[P]** Le Guin, Ursula K. *Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story*. Boston: Mariner Books, 2015. *(Original 1998; revised 2015. Verify which to cite.)*
-- ✗ **[P]** Le Guin, Ursula K. *The Wave in the Mind: Talks and Essays on the Writer, the Reader, and the Imagination*. Boston: Shambhala, 2004.
-- ✗ **[P]** Tolstoy, Leo. *What Is Art?* 1897. *(Specify English translation.)*
-- ✗ **[S]** Robinson, Marilynne. *The Givenness of Things: Essays*. New York: Farrar, Straus and Giroux, 2015.
-- ✗ **[S]** Lewis, C. S. *An Experiment in Criticism*. Cambridge: Cambridge University Press, 1961.
+- ✓ **[P]** Berger, John. *Ways of Seeing*. London: British Broadcasting Corporation; Harmondsworth: Penguin Books, 1972. *(Based on the BBC television series of the same name. Joint imprint, BBC and Penguin Books; "London: BBC and Penguin Books" is acceptable as a short form. ISBN 9780140135152 for the standard Penguin paperback.)*
+- ✓ **[P]** Berger, John. *About Looking*. New York: Pantheon Books, 1980. *(First American edition, hardcover, 198 pp., ISBN 9780394511245. UK edition: London: Writers and Readers Cooperative, 1980.)*
+- ✓ **[P]** Le Guin, Ursula K. *Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story*. Boston: Mariner Books / Houghton Mifflin Harcourt, 2015. *(**Canonical citation, per `03_DECISIONS.md` 2026-04-25.** The 2015 Mariner edition is "completely revised and rewritten" and carries the new subtitle. The original first edition — *Steering the Craft: Exercises and Discussions on Story Writing for the Lone Navigator or the Mutinous Crew* (Portland, OR: The Eighth Mountain Press, 1998) — is preserved in the bibliography as the historical first edition, with a note pointing to the 2015 revised edition as the citing text. ISBN 9780544611610.)*
+- ✓ **[P]** Le Guin, Ursula K. *The Wave in the Mind: Talks and Essays on the Writer, the Reader, and the Imagination*. Boston: Shambhala, 2004. *(ISBN 9781590300060; 320 pp.; published 17 February 2004; winner of the 2005 Locus Award for Best Nonfiction. Distributed in the US by Random House.)*
+- ✓ **[P]** Tolstoy, Leo. *What Is Art?* Translated by Aylmer Maude, with introduction by Vincent Tomas. Indianapolis: Hackett Publishing Co., 1995. *(**Canonical citation, per `03_DECISIONS.md` 2026-04-25.** The Hackett 1995 edition is the standard modern scholarly reprint of Aylmer Maude's authorised translation. Original Russian: *Chto takoye iskusstvo?*, completed 1897; full Russian text first published abroad in 1898 due to censorship in Russia. First complete English edition: trans. Aylmer Maude (London: Walter Scott Ltd., 1899; Tolstoy's preface is dated 1898 and Maude's introduction 1899). A contemporary alternative translation is Richard Pevear and Larissa Volokhonsky, *What Is Art?* (London: Penguin Classics, 1995). Cite the Hackett (Maude/Tomas) edition for in-text references and page numbers; preserve the 1899 Walter Scott in the bibliography as the original English-language publication.)*
+- ✓ **[S]** Robinson, Marilynne. *The Givenness of Things: Essays*. New York: Farrar, Straus and Giroux, 2015. *(ISBN 9780374298470; seventeen essays; longlisted for the 2016 PEN/Diamonstein-Spielvogel Award for the Art of the Essay.)*
+- ✓ **[S]** Lewis, C. S. *An Experiment in Criticism*. Cambridge: Cambridge University Press, 1961. *(142 pp.; first edition in original blue cloth and dust jacket.)*
 
 ## Chapter 9 — Architecture as Frozen Worldview
 
