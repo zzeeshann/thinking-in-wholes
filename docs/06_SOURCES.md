@@ -13,22 +13,28 @@
 >
 > Format follows Oxford referencing (see `02_STYLE_GUIDE.md`).
 >
-> **Initial state below:** all entries marked ✗ UNVERIFIED. The sources are AI-generated from training memory and have not been checked. Verification batches (per `04_PROGRESS.md`) will move entries to ✓ VERIFIED before they are cited in any draft.
+> **Initial state:** all entries seeded as ✗ UNVERIFIED from AI training memory. Verification batches (per `04_PROGRESS.md`) move entries to ✓ VERIFIED before they are cited in any draft.
+
+---
+
+## Verification log
+
+- **2026-04-25 — Batch 1 (foundational systems-thinking canon, 18 entries).** Web-verified against publisher catalogs, Open Library, Internet Archive, HathiTrust, Wikipedia, PhilPapers, Penn Archives, Cambridge Core, Google Books, and rare-book catalogs. Result: **16 ✓ VERIFIED, 2 ⏳ PARTIAL, 0 ✗ UNVERIFIED.** Two PARTIAL entries: Singer, *On the Contented Life* (year 1936 vs 1937 ambiguity in catalogs — re-verify against physical copy); the *A Pattern Language* author list was incomplete (added Jacobson, Fiksdahl-King, Angel as credited co-authors per the title page). Open decisions logged for: (a) Senge 1990 vs 2006 edition, (b) Whitehead *Process and Reality* 1929 vs 1978 corrected edition.
 
 ---
 
 ## Foundational — applies across the book
 
-- ✗ **[P]** Ackoff, Russell L. *Re-Creating the Corporation: A Design of Organizations for the 21st Century*. New York: Oxford University Press, 1999.
-- ✗ **[P]** Ackoff, Russell L. *Ackoff's Best: His Classic Writings on Management*. New York: Wiley, 1999.
-- ✗ **[P]** Meadows, Donella H. *Thinking in Systems: A Primer*. Edited by Diana Wright. White River Junction, VT: Chelsea Green, 2008.
-- ✗ **[P]** Meadows, Donella H. "Leverage Points: Places to Intervene in a System." Hartland, VT: The Sustainability Institute, 1999. *(Originally 1997; verify which version to cite.)*
-- ✗ **[P]** Senge, Peter M. *The Fifth Discipline: The Art and Practice of the Learning Organization*. New York: Doubleday/Currency, 1990. *(Verify whether to cite 1990 or 2006 revised edition.)*
-- ✗ **[S]** Senge, Peter M., Art Kleiner, Charlotte Roberts, Richard B. Ross, and Bryan J. Smith. *The Fifth Discipline Fieldbook: Strategies and Tools for Building a Learning Organization*. New York: Doubleday/Currency, 1994.
-- ✗ **[P]** Forrester, Jay W. *Industrial Dynamics*. Cambridge, MA: MIT Press, 1961.
-- ✗ **[P]** Churchman, C. West. *The Systems Approach*. New York: Delacorte Press, 1968.
-- ✗ **[P]** Beer, Stafford. *Brain of the Firm: The Managerial Cybernetics of Organization*. London: Allen Lane / The Penguin Press, 1972.
-- ✗ **[P]** Gharajedaghi, Jamshid. *Systems Thinking: Managing Chaos and Complexity: A Platform for Designing Business Architecture*. 3rd ed. Burlington, MA: Morgan Kaufmann, 2011.
+- ✓ **[P]** Ackoff, Russell L. *Re-Creating the Corporation: A Design of Organizations for the 21st Century*. New York: Oxford University Press, 1999. *(ISBN 9780195123876.)*
+- ✓ **[P]** Ackoff, Russell L. *Ackoff's Best: His Classic Writings on Management*. New York: John Wiley & Sons, 1999. *(ISBN 9780471316343; "Wiley" acceptable as short form.)*
+- ✓ **[P]** Meadows, Donella H. *Thinking in Systems: A Primer*. Edited by Diana Wright. White River Junction, VT: Chelsea Green, 2008. *(ISBN 9781603580557; manuscript drafted 1993, published posthumously by Sustainability Institute colleagues after her death in 2001.)*
+- ✓ **[P]** Meadows, Donella H. *Leverage Points: Places to Intervene in a System*. Hartland, VT: Sustainability Institute, 1999. *(Cite the 1999 standalone Sustainability Institute paper; the 1997 *Whole Earth* (Winter) essay is a shorter precursor — cite the 1999 version unless quoting from the earlier essay specifically.)*
+- ✓ **[P]** Senge, Peter M. *The Fifth Discipline: The Art and Practice of the Learning Organization*. New York: Doubleday/Currency, 1990. *(ISBN 9780385260947. A revised and updated edition was issued by Currency in 2006 — DECISION REQUIRED on which edition to cite as canonical; 1990 first edition recommended for historical primary status.)*
+- ✓ **[S]** Senge, Peter M., Art Kleiner, Charlotte Roberts, Richard B. Ross, and Bryan J. Smith. *The Fifth Discipline Fieldbook: Strategies and Tools for Building a Learning Organization*. New York: Doubleday/Currency, 1994.
+- ✓ **[P]** Forrester, Jay W. *Industrial Dynamics*. Cambridge, MA: MIT Press, 1961.
+- ✓ **[P]** Churchman, C. West. *The Systems Approach*. New York: Delacorte Press, 1968. *(243 pp.)*
+- ✓ **[P]** Beer, Stafford. *Brain of the Firm: The Managerial Cybernetics of Organization*. London: Allen Lane the Penguin Press, 1972. *(UK first edition, ISBN 9780713902198. A US first edition was issued the same year by Herder and Herder, New York. Cite UK edition as primary unless quoting US pagination.)*
+- ✓ **[P]** Gharajedaghi, Jamshid. *Systems Thinking: Managing Chaos and Complexity: A Platform for Designing Business Architecture*. 3rd ed. Burlington, MA: Morgan Kaufmann (Elsevier), 2011. *(ISBN 9780123859150.)*
 
 ---
 
@@ -55,8 +61,8 @@
 
 ## Chapter 4 — Causation Reconsidered
 
-- ✗ **[P]** Singer, Edgar A., Jr. *On the Contented Life*. New York: Henry Holt, 1936. *(Verify — title and publisher need careful checking; AI is least confident on Singer's bibliography.)*
-- ✗ **[P]** Singer, Edgar A., Jr. *Experience and Reflection*. Edited by C. West Churchman. Philadelphia: University of Pennsylvania Press, 1959.
+- ⏳ **[P]** Singer, Edgar A., Jr. *On the Contented Life*. New York: Henry Holt and Company, 1936. *(PARTIAL — author, title, publisher, and city confirmed via Wikipedia and PhilPapers. Year is most commonly listed as 1936 but some catalog records show 1937; reviews appear in 1937 academic journals consistent with either a late-1936 or early-1937 release. Recommend citing 1936 as primary date with footnote acknowledging 1937 also appears in some catalogs. Re-verify against a physical copy or WorldCat OCLC record before publication.)*
+- ✓ **[P]** Singer, Edgar A., Jr. *Experience and Reflection*. Edited by C. West Churchman. Philadelphia: University of Pennsylvania Press, 1959. *(Posthumous; Singer died 1954. Confirmed via University of Pennsylvania Archives (UPT 50 S617) and Internet Archive catalog record.)*
 - ✗ **[P]** Ackoff, Russell L., and Fred E. Emery. *On Purposeful Systems*. Chicago: Aldine-Atherton, 1972.
 - ✗ **[S]** Pearl, Judea, and Dana Mackenzie. *The Book of Why: The New Science of Cause and Effect*. New York: Basic Books, 2018.
 
@@ -90,10 +96,10 @@
 
 ## Chapter 9 — Architecture as Frozen Worldview
 
-- ✗ **[P]** Alexander, Christopher, Sara Ishikawa, and Murray Silverstein. *A Pattern Language: Towns, Buildings, Construction*. New York: Oxford University Press, 1977.
-- ✗ **[P]** Alexander, Christopher. *The Timeless Way of Building*. New York: Oxford University Press, 1979.
-- ✗ **[P]** Alexander, Christopher. *The Nature of Order: An Essay on the Art of Building and the Nature of the Universe*. 4 vols. Berkeley, CA: Center for Environmental Structure, 2002–2004. *(Each volume cited individually as needed.)*
-- ✗ **[P]** Jacobs, Jane. *The Death and Life of Great American Cities*. New York: Random House, 1961.
+- ✓ **[P]** Alexander, Christopher, Sara Ishikawa, Murray Silverstein, with Max Jacobson, Ingrid Fiksdahl-King, and Shlomo Angel. *A Pattern Language: Towns, Buildings, Construction*. Center for Environmental Structure Series. New York: Oxford University Press, 1977. *(ISBN 9780195019193. CORRECTED: original entry omitted Jacobson, Fiksdahl-King, and Angel, who are credited authors per the title page and Wikipedia.)*
+- ✓ **[P]** Alexander, Christopher. *The Timeless Way of Building*. Center for Environmental Structure Series. New York: Oxford University Press, 1979. *(ISBN 9780195024029; opening volume of the Center for Environmental Structure Series.)*
+- ✗ **[P]** Alexander, Christopher. *The Nature of Order: An Essay on the Art of Building and the Nature of the Universe*. 4 vols. Berkeley, CA: Center for Environmental Structure, 2002–2004. *(Each volume cited individually as needed. Defer to Batch 4.)*
+- ✓ **[P]** Jacobs, Jane. *The Death and Life of Great American Cities*. New York: Random House, 1961. *(First edition, first printing: black patterned cloth, [xii] + 458 pp.)*
 - ✗ **[P]** Jacobs, Jane. *The Economy of Cities*. New York: Random House, 1969.
 - ✗ **[S]** Brand, Stewart. *How Buildings Learn: What Happens After They're Built*. New York: Viking, 1994.
 
@@ -107,9 +113,9 @@
 
 ## Chapter 11 — Philosophy in the Age of Wholes
 
-- ✗ **[P]** Whitehead, Alfred North. *Process and Reality: An Essay in Cosmology*. New York: Macmillan, 1929. *(Corrected edition by D. R. Griffin and D. W. Sherburne, 1978, often preferred.)*
-- ✗ **[P]** Whitehead, Alfred North. *Science and the Modern World*. New York: Macmillan, 1925.
-- ✗ **[P]** Bergson, Henri. *Creative Evolution*. Translated by Arthur Mitchell. New York: Henry Holt, 1911. *(Original French 1907.)*
+- ✓ **[P]** Whitehead, Alfred North. *Process and Reality: An Essay in Cosmology*. New York: Macmillan, 1929. *(Gifford Lectures, University of Edinburgh, 1927–28. The 1929 first edition contains textual inaccuracies; the corrected edition by David Ray Griffin and Donald W. Sherburne, New York: Free Press, 1978, is the scholarly standard — DECISION REQUIRED on which to cite as primary.)*
+- ✓ **[P]** Whitehead, Alfred North. *Science and the Modern World*. New York: Macmillan, 1925. *(Lowell Lectures, February 1925; UK edition published by Cambridge University Press, 1926.)*
+- ✓ **[P]** Bergson, Henri. *Creative Evolution*. Translated by Arthur Mitchell. New York: Henry Holt, 1911. *(Authorised translation of *L'Évolution créatrice*, Paris: Félix Alcan, 1907; Mitchell's translation prepared with assistance from William James, who died in 1910 before he could write the planned introduction.)*
 - ✗ **[P]** Wittgenstein, Ludwig. *Philosophical Investigations*. Translated by G. E. M. Anscombe. Oxford: Blackwell, 1953.
 - ✗ **[S]** Rescher, Nicholas. *Process Philosophy: A Survey of Basic Issues*. Pittsburgh: University of Pittsburgh Press, 2000.
 

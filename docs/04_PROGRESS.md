@@ -6,9 +6,9 @@
 
 ## Current phase
 
-**SETUP COMPLETE → READY FOR CITATION VERIFICATION**
+**BATCH 1 VERIFICATION COMPLETE → READY TO DRAFT PREFACE**
 
-All open questions are resolved. Repository is structured for Claude Code. Standing instructions are in `../CLAUDE.md`. The next session begins citation verification, which gates the start of drafting.
+The foundational verified-source pool now exists: 18 entries verified across the canonical primaries (Ackoff, Meadows, Senge, Forrester, Churchman, Beer, Gharajedaghi, Singer ×2, Alexander ×2, Jacobs, Whitehead ×2, Bergson). Two open editorial decisions surfaced (Senge 1990 vs 2006; Whitehead 1929 vs 1978 corrected) — both noted inline in `06_SOURCES.md`. The preface can now be drafted using only verified sources.
 
 ---
 
@@ -16,27 +16,26 @@ All open questions are resolved. Repository is structured for Claude Code. Stand
 
 **Date:** 2026-04-25
 **Did:**
-- Converted source primer from `.docx` to `.md` (now in `source/`)
-- Designed the architecture: 14 chapters in 4 parts + preface + afterword + glossary + references
-- Wrote the project documentation suite (`docs/00`–`06`)
-- Decided authorship model: AI writes, human directs
-- Decided citation method: Oxford referencing
-- Established citation hallucination protocol: pre-verification of every source
-- Resolved primary audience (creators), preface voice (meditative essay), author voice (third person with rare "I")
-- Decided license: CC BY 4.0
-- Built Claude Code-ready repository structure
-- Created `CLAUDE.md`, `README.md`, `LICENSE`, `.gitignore`
-- Created seven slash commands in `.claude/commands/`
+- Bootstrapped the working git repository (`main` branch, initial import commit `bf32866`).
+- Ran Batch 1 citation verification (18 sources): web-verified each entry against publisher catalogs, Open Library, Internet Archive, HathiTrust, PhilPapers, Penn Archives, Wikipedia, Google Books, Cambridge Core. Result: **16 ✓ VERIFIED, 2 ⏳ PARTIAL.**
+- Discrepancies caught and corrected:
+  - *A Pattern Language* author list was incomplete in `06_SOURCES.md` — Jacobson, Fiksdahl-King, and Angel were missing as credited co-authors. Fixed.
+  - Singer *Experience and Reflection* posthumous editor confirmed as C. West Churchman; Singer's death year corrected from 1955 → **1954** in `00_PROJECT_BRIEF.md`.
+  - Beer *Brain of the Firm* 1972 has separate UK (Allen Lane the Penguin Press) and US (Herder and Herder) first editions — UK confirmed as primary citation, US noted.
+- Open editorial decisions surfaced for resolution before drafting Ch 5–6 (Senge edition) and Ch 11 (Whitehead edition).
+- Logged verification batch in `06_SOURCES.md` under a new "Verification log" section.
 
-**Where we left off:** Setup complete. All standards locked. Ready to begin citation verification batch 1 (foundational sources).
+**Where we left off:** Batch 1 done. The foundational pool is real and citable. Ready to draft the preface.
 
 ---
 
 ## Next session — what to do first
 
 1. Run `/start` — Claude Code reads the project state.
-2. Run `/verify Batch 1 — foundational systems-thinking canon` — this verifies the ~15 most-used sources (Ackoff, Meadows, Senge, Forrester, Singer, Alexander, Jacobs, Churchman, Beer, Whitehead, Bergson, plus a few others). All are currently ✗ UNVERIFIED.
-3. Once Batch 1 has produced a real verified pool, run `/draft preface` to begin the book.
+2. Run `/draft preface` — write the "Letter to the 2040 Reader". Use only ✓ VERIFIED sources from `06_SOURCES.md`. Flag any new claim needing a source as `[SOURCE NEEDED: …]`.
+3. Run `/voice-check preface` after the first draft lands — calibrate against Robinson, Berger, Meadows.
+4. Optionally, before drafting Ch 1 begins, run `/verify Batch 2 — Chapter 1 sources` (Descartes translations, Newton edition, Smith edition, Taylor 1911, Kanigel, Capra).
+5. Resolve the two open edition decisions (Senge 1990 vs 2006; Whitehead 1929 vs 1978) — log in `03_DECISIONS.md`.
 
 ---
 
@@ -71,7 +70,7 @@ All open questions are resolved. Repository is structured for Claude Code. Stand
 
 | Batch | Description | Status |
 |---|---|---|
-| Batch 1 | Foundational systems-thinking canon (~15 sources) | not started |
+| Batch 1 | Foundational systems-thinking canon (18 sources) | **complete — 16 ✓ / 2 ⏳ / 0 ✗** (2026-04-25) |
 | Batch 2 | Chapter 1 sources (Cartesian lineage) | not started |
 | Batch 3 | Chapter 8 sources (creators) | not started |
 | Batch 4 | Chapter 9 sources (architecture) | not started |

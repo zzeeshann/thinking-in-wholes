@@ -64,7 +64,7 @@ The book engages, as primary sources, not summaries:
 - **Russell L. Ackoff** (1919–2009) — systems applied to organizations
 - **Donella H. Meadows** (1941–2001) — system dynamics, ecological thinking
 - **Peter Senge** (b. 1947) — learning organizations
-- **Edgar A. Singer Jr.** (1873–1955) — producer-product causation
+- **Edgar A. Singer Jr.** (1873–1954) — producer-product causation
 - **Jay W. Forrester** (1918–2016) — industrial dynamics
 - **Christopher Alexander** — pattern languages, the timeless way of building
 - **Jane Jacobs** — cities as systems
