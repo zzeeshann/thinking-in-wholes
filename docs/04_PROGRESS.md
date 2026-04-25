@@ -87,7 +87,7 @@ If the director prefers manual control, type `/start` instead — it does only t
 | Ch 11 — Philosophy in the Age of Wholes | not started | 0 / 4,500 | — |
 | Ch 12 — The Connected Life | not started | 0 / 4,500 | — |
 | Ch 13 — The Developed Person | not started | 0 / 4,500 | — |
-| Ch 14 — What 2040 Will Have Learned | first draft | 3,278 body / 3,480 with footnotes | 2026-04-25 |
+| Ch 14 — What 2040 Will Have Learned | voice-checked + reviewed | 3,278 body / 3,480 with footnotes | 2026-04-25 |
 | Afterword | not started | 0 / 1,500 | — |
 | Glossary | not started | 0 / 1,500 | — |
 | References | not started | — | — |
