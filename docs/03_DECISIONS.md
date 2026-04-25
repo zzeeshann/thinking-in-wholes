@@ -70,6 +70,18 @@
 **Decision:** All working files (drafts, decisions, sources, progress) are tracked in git from day one. Nothing hidden. Repo is public.
 **Reasoning:** "Fair game" — author's stated principle. Aligns with the book's own argument about transparency in connected systems. The git history becomes the book's record of how it was made; the 2040 reader will be able to inspect every step.
 
+### 2026-04-25 — No direct primary-source quotation until page numbers are verified
+**Decision:** Drafts paraphrase the canonical primary texts rather than quoting from them, until specific page numbers can be verified against physical or scanned copies of the cited editions.
+**Reasoning:** The style guide is unambiguous: every direct quotation requires a page number in the footnote, and no exception is allowed. Web verification has confirmed the works' bibliographic data and the cited editions, but page numbers for specific passages have not been independently checked. Paraphrase is therefore the disciplined choice. A future pass — once physical or scanned access to the cited editions is available — can convert specific paraphrases into quotations where the prose would benefit. The preface, Ch 1, and Ch 14 were all drafted under this discipline.
+
+### 2026-04-25 — Length floor over length target
+**Decision:** When a chapter completes its argument under the 4,500-word target, the call defaults to "stop and don't pad." The style guide's "honest short" floor (3,800) is a guide, not a hard line — Ch 14 was committed at 3,278 body words because the chapter is the book's most exposed (it puts predictions on the record), and padding the most exposed chapter to hit a target would weaken the discipline the chapter is trying to model.
+**Reasoning:** Length discipline is a quality discipline, not a productivity discipline. A chapter that says everything it needs to say is finished, regardless of whether its body word count crosses an arbitrary threshold. Director may override on a per-chapter basis where the chapter is genuinely thin rather than dense.
+
+### 2026-04-25 — Two open edition decisions deferred to director
+**Decision:** Two editorial decisions surfaced during Batch 1 verification remain explicitly unresolved: (a) Senge, *The Fifth Discipline*, 1990 first edition vs 2006 revised edition; (b) Whitehead, *Process and Reality*, 1929 Macmillan first vs 1978 Griffin/Sherburne corrected edition. The writer can draft preface, Ch 1, and Ch 14 without resolving either, but Ch 5/6 (Senge) and Ch 11 (Whitehead) cannot be drafted until they are resolved.
+**Reasoning:** The decisions are editorial judgments about scholarly convention that belong to the director, not the writer. Both editions are real and citable; the question is which is canonical for this book.
+
 ---
 
 ## OPEN
@@ -104,3 +116,20 @@ The primer used "How to Live, Work and Lead in a Connected World." Workable but 
 - Old `05_PROMPTS.md` removed; replaced by slash commands in `.claude/commands/`:
   `/start`, `/verify`, `/draft`, `/review`, `/source-needed`, `/voice-check`, `/end-session`
 - Project files reorganized: `docs/` for project documentation, `source/` for the primer, `drafts/` for chapter drafts
+
+### 2026-04-25 — Working production session 1 (initial bootstrap → three drafts banked)
+- Local git repository initialised on `main`; nine commits made in working order.
+- Bibliographic corrections during Batch 1 verification:
+  - *A Pattern Language* author list expanded to include Jacobson, Fiksdahl-King, and Angel (were missing as credited co-authors).
+  - Singer death year corrected in `00_PROJECT_BRIEF.md` from 1955 to 1954.
+  - Beer *Brain of the Firm* 1972 noted to have separate UK (Allen Lane the Penguin Press) and US (Herder and Herder) first editions; UK retained as primary citation.
+- Bibliographic corrections during Batch 2 verification:
+  - Newton *Principia* publisher corrected from "Royal Society" to "Joseph Streater, for the Royal Society of London"; Streater was the printer.
+- Standard modern scholarly editions specified for the three Ch 1 historical primaries:
+  Descartes via Cottingham/Stoothoff/Murdoch (Cambridge UP, 1985);
+  Newton via Cohen/Whitman (UC Press, 1999);
+  Smith via the Glasgow Edition (Oxford/Clarendon, 1976).
+- Batch 1 (foundational systems-thinking canon, 18 entries): 17 ✓ / 1 ⏳.
+- Batch 2 (Cartesian lineage, 6 entries): 6 ✓.
+- Batch 8 (predictions and futures, 3 entries): 3 ✓.
+- Three first drafts banked: preface (2,336 body), Ch 1 (3,824 body), Ch 14 (3,278 body); 9,438 body words total. The preface received a voice-check + review pass.

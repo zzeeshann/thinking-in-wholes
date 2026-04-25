@@ -88,11 +88,17 @@ The full operating instructions live in `CLAUDE.md`.
 | Phase | Status |
 |---|---|
 | Setup and standards | Complete |
-| Citation verification (foundational batch) | Pending |
-| Preface | Pending |
-| Chapters 1–14 | Pending |
+| Citation verification — Batch 1 (foundational canon, 18 sources) | Complete (17 ✓ / 1 ⏳) |
+| Citation verification — Batch 2 (Chapter 1, 6 sources) | Complete (6 ✓) |
+| Citation verification — Batch 8 (Chapter 14, 3 sources) | Complete (3 ✓) |
+| Citation verification — Batches 3–7 | Pending |
+| Preface | First draft (voice-checked + reviewed) — 2,336 body words |
+| Chapter 1 — *The Cartesian Wound* | First draft — 3,824 body words |
+| Chapter 14 — *What 2040 Will Have Learned* | First draft — 3,278 body words |
+| Chapters 2–13, afterword, glossary | Pending |
+| **Total drafted** | **9,438 / ~70,000 body words** |
 
-Live status in `docs/04_PROGRESS.md`.
+Live status in [`docs/04_PROGRESS.md`](docs/04_PROGRESS.md).
 
 ---
 
