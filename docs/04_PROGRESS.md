@@ -95,6 +95,7 @@ If the director prefers manual control, type `/start` instead — it does only t
 | Ch 4 supporting | Chapter 4 sources (Singer × 2, Ackoff & Emery, Pearl & Mackenzie — 4 sources) | **complete — 4 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 | Batch 4 | Chapter 9 sources (architecture, 3 sources) | **complete — 3 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 | Batch 5 | Chapter 10 sources (engineering, 4 sources) | **complete — 4 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
+| Ch 5 supporting | Chapter 5 sources (Goodhart 1975, Campbell 1979, Muller 2018 — 3 sources) | **complete — 3 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 | Batch 6 | Chapter 11 sources (philosophy) | not started |
 | Batch 7 | Chapter 12–13 sources (the connected life) | not started |
 | Batch 8 | Chapter 14 sources (predictions, futures, 3 sources) | **complete — 3 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
