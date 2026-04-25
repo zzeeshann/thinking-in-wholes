@@ -65,7 +65,7 @@ If the director prefers manual control, type `/start` instead — it does only t
 | Preface | voice-checked + reviewed | 2,336 body / 2,577 with footnotes | 2026-04-25 |
 | Ch 1 — The Cartesian Wound | voice-checked + reviewed | 3,824 body / 4,159 with footnotes | 2026-04-25 |
 | Ch 2 — The Three Returns | voice-checked + reviewed | 3,609 body / 3,988 with footnotes | 2026-04-25 |
-| Ch 3 — The Anatomy of a System | voice-checked | 3,764 body / 4,301 with footnotes | 2026-04-25 |
+| Ch 3 — The Anatomy of a System | voice-checked + reviewed | 3,749 body / 4,286 with footnotes | 2026-04-25 |
 | Ch 4 — Causation Reconsidered | not started | 0 / 4,500 | — |
 | Ch 5 — The Tyranny of Local Optima | not started | 0 / 4,500 | — |
 | Ch 6 — The Loop You're Inside | not started | 0 / 4,500 | — |

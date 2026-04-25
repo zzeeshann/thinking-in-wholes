@@ -54,9 +54,9 @@ Hierarchy also explains why systems can fail in ways that are hard to assign bla
 
 ## Boundary
 
-Every system has a *boundary*: a line drawn between what is inside it and what is outside. The boundary is where the system meets its environment. It is also where the analyst meets the modeller's first hard choice — because the boundary is, almost always, partly a property of the system and partly a choice of the person studying it.[^7]
-
 A cell has a membrane. The membrane is real, physical, semi-permeable; it controls what enters and leaves, and the cell's life depends on that control. So far the boundary is in the world. But where does the cell end and the body begin? The membrane is the obvious answer; yet the cell is functionally inseparable from its blood supply, its nervous signals, its bath of hormones, its ambient temperature. To draw the boundary at the membrane is a choice that serves some questions and obscures others.
+
+Every system has a *boundary*: a line between what is inside it and what is outside. It is where the system meets its environment, and where the analyst meets the modeller's first hard choice — because the boundary is, almost always, partly a property of the system and partly a choice of the person studying it.[^7]
 
 The same is true of every system worth studying. The boundary of a family is unclear: by kinship? By household? By the people one would die for? The boundary of a city is unclear: legal limits, watershed, commute zone, supply chain? The boundary of a person is unclear in ways that are not merely poetic: the gut bacteria carry out functions a body could not perform without them; the language a person thinks in was given by a community; the body's sense of where it is relies on the floor, the gravity, the air. Drawing a boundary too narrowly omits causes. Drawing it too widely renders the system unstudiable.
 
@@ -74,9 +74,7 @@ The diagnostic has a constructive sequel. Once the actual purpose of a system is
 
 ## Resilience
 
-The last term in this chapter's working vocabulary is *resilience*: the capacity of a system to maintain its function under shock, perturbation, or stress.
-
-A forest burns; given a season, it returns. A body cuts itself; given time, it heals. An institution loses its leader; given succession, it continues. A language loses speakers; given a community, it survives. In each case the system has been pushed away from its functioning state, and in each case it has the capacity to find its way back. That capacity is resilience, and it is a property of the system as a whole — of its redundancies, its slack, its diverse pathways for getting things done, its willingness to lose efficiency in the short term in exchange for survival in the long term.
+A forest burns; given a season, it returns. A body cuts itself; given time, it heals. An institution loses its leader; given succession, it continues. A language loses speakers; given a community, it survives. In each case the system has been pushed away from its functioning state, and in each case it has the capacity to find its way back. That capacity is *resilience*: the ability of a system to maintain its function under shock, perturbation, or stress. It is a property of the system as a whole — of its redundancies, its slack, its diverse pathways for getting things done, its willingness to lose efficiency in the short term in exchange for survival in the long term.
 
 Resilience is often confused with strength, but it is closer to the opposite. A strong thing resists shock by not bending. A resilient thing absorbs the shock by bending and then recovering. A bridge built strong but not resilient will hold every load until the load that breaks it; a bridge built resilient will sway through the wind that would have shattered the strong one, and stand the next morning. The same logic obtains in living things. The body that has never been ill is the body least equipped to handle illness. The institution that has never failed is the institution most likely to fail catastrophically. Resilience is built by exposure to manageable failure, not by the absence of failure.
 
