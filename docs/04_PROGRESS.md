@@ -66,7 +66,7 @@ If the director prefers manual control, type `/start` instead — it does only t
 | Ch 2 — The Three Returns | voice-checked + reviewed | 3,609 body / 3,988 with footnotes | 2026-04-25 |
 | Ch 3 — The Anatomy of a System | voice-checked + reviewed | 3,749 body / 4,286 with footnotes | 2026-04-25 |
 | Ch 4 — Causation Reconsidered | voice-checked + reviewed | 3,688 body / 3,974 with footnotes | 2026-04-25 |
-| Ch 5 — The Tyranny of Local Optima | first draft | 3,416 body / 3,760 with footnotes | 2026-04-25 |
+| Ch 5 — The Tyranny of Local Optima | voice-checked | 3,317 body / 3,661 with footnotes | 2026-04-25 |
 | Ch 6 — The Loop You're Inside | not started | 0 / 4,500 | — |
 | Ch 7 — Delay, Overshoot, and the Grief of Premature Action | not started | 0 / 4,500 | — |
 | Ch 8 — The Maker's Dilemma | not started | 0 / 4,500 | — |
