@@ -1,0 +1,48 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.*.sw[a-z]
+
+# Backups
+*.bak
+*.orig
+*.rej
+
+# Build artifacts (if/when we convert to PDF or ePub)
+/build/
+/dist/
+*.pdf
+*.epub
+*.mobi
+
+# Claude Code working cache (not the commands folder, which IS tracked)
+.claude/cache/
+.claude/logs/
+
+# Temp / scratch
+/tmp/
+/.tmp/
+*.tmp
+
+# Node (if any tooling appears later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python (if any tooling appears later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Note: drafts/, docs/, source/, and bibliography are all tracked.
+# The book is being written transparently. Working files are public.
