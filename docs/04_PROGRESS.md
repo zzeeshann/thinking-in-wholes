@@ -81,7 +81,7 @@ Preface (voice-checked + reviewed) and Chapter 1 — *The Cartesian Wound* (firs
 | Batch 5 | Chapter 10 sources (engineering) | not started |
 | Batch 6 | Chapter 11 sources (philosophy) | not started |
 | Batch 7 | Chapter 12–13 sources (the connected life) | not started |
-| Batch 8 | Chapter 14 sources (predictions, futures) | not started |
+| Batch 8 | Chapter 14 sources (predictions, futures, 3 sources) | **complete — 3 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 
 Verification batches run **before** drafting the chapter that needs them. No chapter drafts begin until its citation batch is complete.
 

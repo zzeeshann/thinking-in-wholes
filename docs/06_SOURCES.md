@@ -23,6 +23,8 @@
 
 - **2026-04-25 — Batch 2 (Chapter 1 — Cartesian lineage, 6 entries).** Web-verified against Cambridge Core, Cambridge UP, University of California Press, Oxford UP, Open Library, Internet Archive, Library of Congress, PhilPapers, Wikipedia, and rare-book catalogs. Result: **6 ✓ VERIFIED, 0 ⏳ PARTIAL, 0 ✗ UNVERIFIED.** Standard modern scholarly editions specified for the three historical primaries: Descartes via Cottingham/Stoothoff/Murdoch (Cambridge UP, 1985); Newton via Cohen/Whitman (UC Press, 1999); Smith via the Glasgow Edition (Oxford/Clarendon, 1976). Newton publisher discrepancy corrected — original entry attributed to "Royal Society"; the printer was Joseph Streater, working for the Royal Society. Taylor 1911 has three printings in early 1911 (February ASME confidential, March private, April trade) — recommend citing the trade edition unless quoting from a specific earlier printing.
 
+- **2026-04-25 — Batch 8 (Chapter 14 — predictions, futures, accountability, 3 entries).** Web-verified against Profile Books, Basic Books, Crown / Penguin Random House, Open Library, Wikipedia, ResearchGate, and Goodreads. Result: **3 ✓ VERIFIED, 0 ⏳ PARTIAL, 0 ✗ UNVERIFIED.** Brand, Tetlock & Gardner, Davies all confirmed against publisher records. No discrepancies. Chapter 14 — *What 2040 Will Have Learned* — is now drafting-ready.
+
 ---
 
 ## Foundational — applies across the book
@@ -135,9 +137,9 @@
 
 ## Chapter 14 — What 2040 Will Have Learned
 
-- ✗ **[S]** Brand, Stewart. *The Clock of the Long Now: Time and Responsibility*. New York: Basic Books, 1999.
-- ✗ **[S]** Tetlock, Philip E., and Dan Gardner. *Superforecasting: The Art and Science of Prediction*. New York: Crown, 2015.
-- ✗ **[S]** Davies, Dan. *The Unaccountability Machine: Why Big Systems Make Terrible Decisions — and How the World Lost Its Mind*. London: Profile Books, 2024.
+- ✓ **[S]** Brand, Stewart. *The Clock of the Long Now: Time and Responsibility*. New York: Basic Books, 1999. *(208 pp.; ISBN 9780465007806. UK edition published by Weidenfeld & Nicolson the same year in the Master Minds series.)*
+- ✓ **[S]** Tetlock, Philip E., and Dan Gardner. *Superforecasting: The Art and Science of Prediction*. New York: Crown, 2015. *(ISBN 9780804136716.)*
+- ✓ **[S]** Davies, Dan. *The Unaccountability Machine: Why Big Systems Make Terrible Decisions — and How the World Lost Its Mind*. London: Profile Books, 2024. *(ISBN 9781788169547. Longlisted for FT/Schroders Business Book of the Year 2024.)*
 
 ---
 
