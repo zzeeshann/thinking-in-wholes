@@ -6,9 +6,9 @@
 
 ## Current phase
 
-**PREFACE READY FOR DIRECTOR REVIEW · BATCH 2 VERIFIED · CH 1 UNBLOCKED**
+**PREFACE + CH 1 FIRST DRAFTS COMPLETE · BATCH 2 VERIFIED · TWO SECTIONS BANKED**
 
-The preface is voice-checked and reviewed (2,336 body / 2,577 with footnotes; six footnotes; zero unresolved `[SOURCE NEEDED]` flags). Batch 2 verification complete: Descartes, Newton, Smith, Taylor, Kanigel, Capra all ✓ VERIFIED, with standard modern editions specified for the three historical primaries (Cottingham/Stoothoff/Murdoch for Descartes; Cohen/Whitman for Newton; Glasgow Edition for Smith). Newton publisher discrepancy (Royal Society → Joseph Streater for the Royal Society) corrected. Chapter 1 — The Cartesian Wound is now drafting-ready. Two open editorial decisions still pending the director (Senge 1990 vs 2006; Whitehead 1929 vs 1978) but neither blocks Ch 1.
+Preface (voice-checked + reviewed) and Chapter 1 — *The Cartesian Wound* (first draft) are both committed. Total drafted body: 6,160 words across the two sections (preface 2,336 + Ch 1 3,824); 6,736 with footnotes. Twelve footnotes, all from the verified pool (Batch 1 + Batch 2). Zero unresolved `[SOURCE NEEDED]` flags. Two open editorial decisions still pending the director (Senge 1990 vs 2006; Whitehead 1929 vs 1978).
 
 ---
 
@@ -24,19 +24,22 @@ The preface is voice-checked and reviewed (2,336 body / 2,577 with footnotes; si
   - Beer *Brain of the Firm* 1972 has separate UK (Allen Lane the Penguin Press) and US (Herder and Herder) first editions — UK confirmed as primary citation, US noted.
 - Open editorial decisions surfaced for resolution before drafting Ch 5–6 (Senge edition) and Ch 11 (Whitehead edition).
 - Logged verification batch in `06_SOURCES.md` under a new "Verification log" section.
-- Drafted the preface ("Letter to the 2040 Reader") at 2,301 body words (2,542 with footnotes). Six footnotes; zero unresolved `[SOURCE NEEDED]` flags. Forbidden-vocab sweep clean; 2040-frame check clean (no specific 2026 company / political-figure / platform / controversy references; AI named only as a class of technology); both rhetorical questions are answered with substance per style guide.
+- Drafted the preface ("Letter to the 2040 Reader") at 2,301 body words; ran voice-check + review pass with three substantive revisions (concrete grounding in the closing, broken parallel structure on the climate paragraph, tightened predictions sentence). Final 2,336 body / 2,577 with footnotes; six footnotes; zero unresolved `[SOURCE NEEDED]` flags.
+- Ran Batch 2 verification (6 Chapter 1 sources): all ✓ VERIFIED. Standard modern editions specified for Descartes (Cottingham/Stoothoff/Murdoch, Cambridge UP, 1985), Newton (Cohen/Whitman, UC Press, 1999), and Smith (Glasgow Edition, Oxford, 1976). Newton publisher discrepancy corrected (printer Joseph Streater, for the Royal Society).
+- Drafted Chapter 1 — *The Cartesian Wound* — first draft at 3,824 body words / 4,159 with footnotes. Six footnotes (Descartes, Newton, Smith, Taylor, Kanigel, Capra), all from the Batch 2 verified pool. Forbidden-vocab sweep clean. No direct quotations from primaries (no verified page numbers in the source pool yet). Length ~700 words under the 4,500 target but crosses the style guide's "honest short" threshold (≥3,800); resisted padding.
 
-**Where we left off:** Preface first draft complete. Ready for `/voice-check preface` calibration against Robinson/Berger/Meadows, and director review. The two open edition decisions still need resolution before Ch 5/6 (Senge) and Ch 11 (Whitehead) can begin.
+**Where we left off:** Preface and Ch 1 first drafts banked. Ready for `/voice-check ch01` and `/review ch01`, plus director review of both sections. The two open edition decisions still need resolution before Ch 5/6 (Senge) and Ch 11 (Whitehead) can begin.
 
 ---
 
 ## Next session — what to do first
 
 1. Run `/start` — Claude Code reads the project state.
-2. Director review of the preface ([drafts/preface.md](../drafts/preface.md)) — voice, argument, anything to cut or sharpen.
-3. Resolve the two open edition decisions (Senge 1990 vs 2006; Whitehead 1929 vs 1978) — log in `03_DECISIONS.md`. Neither blocks Ch 1, but both block subsequent chapters.
-4. Run `/draft chapter 1` — *The Cartesian Wound*. All sources are verified. The ~4,500-word target opens the book's real argument; the chapter must do three things: (a) establish the full lineage of parts-thinking (Descartes → Newton → Smith → Taylor → Ford), (b) honour what analysis got right for 350 years, (c) name where the method's success became its trap. Use only ✓ VERIFIED sources from `06_SOURCES.md`.
-5. Run `/voice-check ch01` and `/review ch01` after the first draft lands.
+2. Director review of the preface and Ch 1 ([drafts/preface.md](../drafts/preface.md), [drafts/ch01_cartesian_wound.md](../drafts/ch01_cartesian_wound.md)).
+3. Run `/voice-check ch01` and `/review ch01` — calibration and full style-guide pass on Ch 1.
+4. Resolve the two open edition decisions (Senge 1990 vs 2006; Whitehead 1929 vs 1978) — log in `03_DECISIONS.md`. The Senge decision blocks Ch 5–6; the Whitehead decision blocks Ch 11.
+5. Per the working order, the next drafting target is Ch 14 (*What 2040 Will Have Learned*) — writing the destination early disciplines the middle. Verify Batch 8 (Brand, Tetlock & Gardner, Davies) before drafting.
+6. Alternative: continue numerically with Ch 2 (*The Three Returns*). Foundational pool is already verified (Batch 1) so Ch 2 is drafting-ready immediately, no further verification needed.
 
 ---
 
@@ -45,7 +48,7 @@ The preface is voice-checked and reviewed (2,336 body / 2,577 with footnotes; si
 | Section | Status | Word count | Last touched |
 |---|---|---|---|
 | Preface | voice-checked + reviewed | 2,336 body / 2,577 with footnotes | 2026-04-25 |
-| Ch 1 — The Cartesian Wound | not started | 0 / 4,500 | — |
+| Ch 1 — The Cartesian Wound | first draft | 3,824 body / 4,159 with footnotes | 2026-04-25 |
 | Ch 2 — The Three Returns | not started | 0 / 4,500 | — |
 | Ch 3 — The Anatomy of a System | not started | 0 / 4,500 | — |
 | Ch 4 — Causation Reconsidered | not started | 0 / 4,500 | — |
@@ -63,7 +66,7 @@ The preface is voice-checked and reviewed (2,336 body / 2,577 with footnotes; si
 | Glossary | not started | 0 / 1,500 | — |
 | References | not started | — | — |
 
-**Total drafted:** 2,301 / ~70,000 words (preface body; 2,542 with footnotes)
+**Total drafted:** 6,160 / ~70,000 words (preface 2,336 + Ch 1 3,824, body counts; 6,736 with footnotes)
 
 ---
 
