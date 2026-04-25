@@ -45,7 +45,7 @@ The foundational verified-source pool exists (18 entries from Batch 1). The pref
 
 | Section | Status | Word count | Last touched |
 |---|---|---|---|
-| Preface | first draft | 2,301 body / 2,542 with footnotes | 2026-04-25 |
+| Preface | voice-checked + reviewed | 2,336 body / 2,577 with footnotes | 2026-04-25 |
 | Ch 1 — The Cartesian Wound | not started | 0 / 4,500 | — |
 | Ch 2 — The Three Returns | not started | 0 / 4,500 | — |
 | Ch 3 — The Anatomy of a System | not started | 0 / 4,500 | — |
