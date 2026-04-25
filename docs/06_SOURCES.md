@@ -19,7 +19,7 @@
 
 ## Verification log
 
-- **2026-04-25 — Batch 1 (foundational systems-thinking canon, 18 entries).** Web-verified against publisher catalogs, Open Library, Internet Archive, HathiTrust, Wikipedia, PhilPapers, Penn Archives, Cambridge Core, Google Books, and rare-book catalogs. Result: **16 ✓ VERIFIED, 2 ⏳ PARTIAL, 0 ✗ UNVERIFIED.** Two PARTIAL entries: Singer, *On the Contented Life* (year 1936 vs 1937 ambiguity in catalogs — re-verify against physical copy); the *A Pattern Language* author list was incomplete (added Jacobson, Fiksdahl-King, Angel as credited co-authors per the title page). Open decisions logged for: (a) Senge 1990 vs 2006 edition, (b) Whitehead *Process and Reality* 1929 vs 1978 corrected edition.
+- **2026-04-25 — Batch 1 (foundational systems-thinking canon, 18 entries).** Web-verified against publisher catalogs, Open Library, Internet Archive, HathiTrust, Wikipedia, PhilPapers, Penn Archives, Cambridge Core, Google Books, and rare-book catalogs. Result: **17 ✓ VERIFIED, 1 ⏳ PARTIAL, 0 ✗ UNVERIFIED.** PARTIAL entry: Singer, *On the Contented Life* (year 1936 vs 1937 ambiguity in catalogs — re-verify against a physical copy or WorldCat OCLC record before publication). Discrepancies caught and corrected during verification: the *A Pattern Language* author list was incomplete (Jacobson, Fiksdahl-King, Angel were missing as credited co-authors — added); Singer's death year was wrong in `00_PROJECT_BRIEF.md` (1955 → 1954 — corrected); Beer 1972 has separate UK and US first editions (UK retained as primary citation). Open editorial decisions surfaced: (a) Senge *Fifth Discipline* 1990 vs 2006 edition, (b) Whitehead *Process and Reality* 1929 vs 1978 corrected edition.
 
 ---
 

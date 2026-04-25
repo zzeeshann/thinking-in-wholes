@@ -17,7 +17,7 @@ The foundational verified-source pool now exists: 18 entries verified across the
 **Date:** 2026-04-25
 **Did:**
 - Bootstrapped the working git repository (`main` branch, initial import commit `bf32866`).
-- Ran Batch 1 citation verification (18 sources): web-verified each entry against publisher catalogs, Open Library, Internet Archive, HathiTrust, PhilPapers, Penn Archives, Wikipedia, Google Books, Cambridge Core. Result: **16 ✓ VERIFIED, 2 ⏳ PARTIAL.**
+- Ran Batch 1 citation verification (18 sources): web-verified each entry against publisher catalogs, Open Library, Internet Archive, HathiTrust, PhilPapers, Penn Archives, Wikipedia, Google Books, Cambridge Core. Result: **17 ✓ VERIFIED, 1 ⏳ PARTIAL, 0 ✗ UNVERIFIED.**
 - Discrepancies caught and corrected:
   - *A Pattern Language* author list was incomplete in `06_SOURCES.md` — Jacobson, Fiksdahl-King, and Angel were missing as credited co-authors. Fixed.
   - Singer *Experience and Reflection* posthumous editor confirmed as C. West Churchman; Singer's death year corrected from 1955 → **1954** in `00_PROJECT_BRIEF.md`.
@@ -70,7 +70,7 @@ The foundational verified-source pool now exists: 18 entries verified across the
 
 | Batch | Description | Status |
 |---|---|---|
-| Batch 1 | Foundational systems-thinking canon (18 sources) | **complete — 16 ✓ / 2 ⏳ / 0 ✗** (2026-04-25) |
+| Batch 1 | Foundational systems-thinking canon (18 sources) | **complete — 17 ✓ / 1 ⏳ / 0 ✗** (2026-04-25) |
 | Batch 2 | Chapter 1 sources (Cartesian lineage) | not started |
 | Batch 3 | Chapter 8 sources (creators) | not started |
 | Batch 4 | Chapter 9 sources (architecture) | not started |
