@@ -6,9 +6,9 @@
 
 ## Current phase
 
-**PREFACE + CH 1 FIRST DRAFTS COMPLETE · BATCH 2 VERIFIED · TWO SECTIONS BANKED**
+**PREFACE + CH 1 + CH 14 FIRST DRAFTS BANKED · BATCHES 1, 2, 8 VERIFIED · DESTINATION SET**
 
-Preface (voice-checked + reviewed) and Chapter 1 — *The Cartesian Wound* (first draft) are both committed. Total drafted body: 6,160 words across the two sections (preface 2,336 + Ch 1 3,824); 6,736 with footnotes. Twelve footnotes, all from the verified pool (Batch 1 + Batch 2). Zero unresolved `[SOURCE NEEDED]` flags. Two open editorial decisions still pending the director (Senge 1990 vs 2006; Whitehead 1929 vs 1978).
+Three sections committed, opening through closing: preface (voice-checked + reviewed), Ch 1 — *The Cartesian Wound*, and Ch 14 — *What 2040 Will Have Learned*. Total drafted body: 9,438 words (preface 2,336 + Ch 1 3,824 + Ch 14 3,278); 10,216 with footnotes. Sixteen footnotes total, all from the verified pool (Batches 1, 2, 8). Zero unresolved `[SOURCE NEEDED]` flags. Ch 14 is intentionally under the 4,500 target (3,278 body) — the chapter puts nine predictions on the record and made the book's central closing argument; padding it would weaken the discipline it models. Two open editorial decisions still pending the director (Senge 1990 vs 2006; Whitehead 1929 vs 1978).
 
 ---
 
@@ -27,19 +27,20 @@ Preface (voice-checked + reviewed) and Chapter 1 — *The Cartesian Wound* (firs
 - Drafted the preface ("Letter to the 2040 Reader") at 2,301 body words; ran voice-check + review pass with three substantive revisions (concrete grounding in the closing, broken parallel structure on the climate paragraph, tightened predictions sentence). Final 2,336 body / 2,577 with footnotes; six footnotes; zero unresolved `[SOURCE NEEDED]` flags.
 - Ran Batch 2 verification (6 Chapter 1 sources): all ✓ VERIFIED. Standard modern editions specified for Descartes (Cottingham/Stoothoff/Murdoch, Cambridge UP, 1985), Newton (Cohen/Whitman, UC Press, 1999), and Smith (Glasgow Edition, Oxford, 1976). Newton publisher discrepancy corrected (printer Joseph Streater, for the Royal Society).
 - Drafted Chapter 1 — *The Cartesian Wound* — first draft at 3,824 body words / 4,159 with footnotes. Six footnotes (Descartes, Newton, Smith, Taylor, Kanigel, Capra), all from the Batch 2 verified pool. Forbidden-vocab sweep clean. No direct quotations from primaries (no verified page numbers in the source pool yet). Length ~700 words under the 4,500 target but crosses the style guide's "honest short" threshold (≥3,800); resisted padding.
+- Ran Batch 8 verification (3 Ch 14 sources): Brand, Tetlock & Gardner, Davies — all ✓ VERIFIED, no discrepancies.
+- Drafted Chapter 14 — *What 2040 Will Have Learned* — first draft at 3,278 body words / 3,480 with footnotes. Four footnotes (Tetlock & Gardner, Davies, Ackoff, Brand). Nine predictions on the record across three groups (AI, climate, institutional), with reasoning shown for each; five hopes named openly; closing argument for the developed person as the unit on which the systems response runs. Two forbidden-vocab violations caught in my own expansions ("fundamentally" and "in essentials") and fixed before commit. Length ~1,200 under the 4,500 target and ~500 below the "honest short" floor — but the chapter is the most exposed in the book, putting predictions on the record, and padding it would weaken the discipline it models.
 
-**Where we left off:** Preface and Ch 1 first drafts banked. Ready for `/voice-check ch01` and `/review ch01`, plus director review of both sections. The two open edition decisions still need resolution before Ch 5/6 (Senge) and Ch 11 (Whitehead) can begin.
+**Where we left off:** Three first drafts banked (preface, Ch 1, Ch 14 — beginning, beginning-of-argument, end-of-argument). The destination is set; the middle can now be written into a known shape. Ready for director review of all three drafts, voice-check + review passes on Ch 1 and Ch 14, and the open edition decisions on Senge and Whitehead.
 
 ---
 
 ## Next session — what to do first
 
 1. Run `/start` — Claude Code reads the project state.
-2. Director review of the preface and Ch 1 ([drafts/preface.md](../drafts/preface.md), [drafts/ch01_cartesian_wound.md](../drafts/ch01_cartesian_wound.md)).
-3. Run `/voice-check ch01` and `/review ch01` — calibration and full style-guide pass on Ch 1.
+2. Director review of preface, Ch 1, and Ch 14 ([drafts/preface.md](../drafts/preface.md), [drafts/ch01_cartesian_wound.md](../drafts/ch01_cartesian_wound.md), [drafts/ch14_what_2040_learned.md](../drafts/ch14_what_2040_learned.md)). Ch 14 is the most exposed of the three; pay particular attention to whether the nine predictions strike the right balance between specificity (so the 2040 reader can grade them) and avoidance of period-piece detail (so the prose doesn't age).
+3. Run `/voice-check` and `/review` on Ch 1 and Ch 14.
 4. Resolve the two open edition decisions (Senge 1990 vs 2006; Whitehead 1929 vs 1978) — log in `03_DECISIONS.md`. The Senge decision blocks Ch 5–6; the Whitehead decision blocks Ch 11.
-5. Per the working order, the next drafting target is Ch 14 (*What 2040 Will Have Learned*) — writing the destination early disciplines the middle. Verify Batch 8 (Brand, Tetlock & Gardner, Davies) before drafting.
-6. Alternative: continue numerically with Ch 2 (*The Three Returns*). Foundational pool is already verified (Batch 1) so Ch 2 is drafting-ready immediately, no further verification needed.
+5. Continue numerically with Ch 2 (*The Three Returns*). Foundational pool already covers it; no further verification needed. Ch 2 is the natural follow-on to Ch 1's "the systems thinkers who came after" hinge.
 
 ---
 
@@ -61,12 +62,12 @@ Preface (voice-checked + reviewed) and Chapter 1 — *The Cartesian Wound* (firs
 | Ch 11 — Philosophy in the Age of Wholes | not started | 0 / 4,500 | — |
 | Ch 12 — The Connected Life | not started | 0 / 4,500 | — |
 | Ch 13 — The Developed Person | not started | 0 / 4,500 | — |
-| Ch 14 — What 2040 Will Have Learned | not started | 0 / 4,500 | — |
+| Ch 14 — What 2040 Will Have Learned | first draft | 3,278 body / 3,480 with footnotes | 2026-04-25 |
 | Afterword | not started | 0 / 1,500 | — |
 | Glossary | not started | 0 / 1,500 | — |
 | References | not started | — | — |
 
-**Total drafted:** 6,160 / ~70,000 words (preface 2,336 + Ch 1 3,824, body counts; 6,736 with footnotes)
+**Total drafted:** 9,438 / ~70,000 words (preface 2,336 + Ch 1 3,824 + Ch 14 3,278, body counts; 10,216 with footnotes)
 
 ---
 
