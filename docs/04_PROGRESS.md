@@ -65,7 +65,7 @@ If the director prefers manual control, type `/start` instead — it does only t
 | Ch 1 — The Cartesian Wound | voice-checked + reviewed | 3,824 body / 4,159 with footnotes | 2026-04-25 |
 | Ch 2 — The Three Returns | voice-checked + reviewed | 3,609 body / 3,988 with footnotes | 2026-04-25 |
 | Ch 3 — The Anatomy of a System | voice-checked + reviewed | 3,749 body / 4,286 with footnotes | 2026-04-25 |
-| Ch 4 — Causation Reconsidered | first draft | 3,686 body / 3,972 with footnotes | 2026-04-25 |
+| Ch 4 — Causation Reconsidered | voice-checked | 3,677 body / 3,963 with footnotes | 2026-04-25 |
 | Ch 5 — The Tyranny of Local Optima | not started | 0 / 4,500 | — |
 | Ch 6 — The Loop You're Inside | not started | 0 / 4,500 | — |
 | Ch 7 — Delay, Overshoot, and the Grief of Premature Action | not started | 0 / 4,500 | — |
@@ -80,7 +80,7 @@ If the director prefers manual control, type `/start` instead — it does only t
 | Glossary | not started | 0 / 1,500 | — |
 | References | not started | — | — |
 
-**Total drafted:** 20,482 / ~70,000 words (preface 2,336 + Ch 1 3,824 + Ch 2 3,609 + Ch 3 3,749 + Ch 4 3,686 + Ch 14 3,278, body counts; 22,462 with footnotes)
+**Total drafted:** 20,473 / ~70,000 words (preface 2,336 + Ch 1 3,824 + Ch 2 3,609 + Ch 3 3,749 + Ch 4 3,677 + Ch 14 3,278, body counts; 22,453 with footnotes)
 
 ---
 
