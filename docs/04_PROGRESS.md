@@ -65,7 +65,7 @@ If the director prefers manual control, type `/start` instead — it does only t
 | Ch 3 — The Anatomy of a System | voice-checked + reviewed | 3,749 body / 4,286 with footnotes | 2026-04-25 |
 | Ch 4 — Causation Reconsidered | voice-checked + reviewed | 3,688 body / 3,974 with footnotes | 2026-04-25 |
 | Ch 5 — The Tyranny of Local Optima | voice-checked + reviewed | 3,307 body / 3,651 with footnotes | 2026-04-25 |
-| Ch 6 — The Loop You're Inside | first draft | 3,138 body / 3,578 with footnotes | 2026-04-25 |
+| Ch 6 — The Loop You're Inside | voice-checked + reviewed | 3,132 body / 3,559 with footnotes | 2026-04-25 |
 | Ch 7 — Delay, Overshoot, and the Grief of Premature Action | not started | 0 / 4,500 | — |
 | Ch 8 — The Maker's Dilemma | not started | 0 / 4,500 | — |
 | Ch 9 — Architecture as Frozen Worldview | not started | 0 / 4,500 | — |
