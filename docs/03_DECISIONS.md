@@ -150,3 +150,14 @@ The primer used "How to Live, Work and Lead in a Connected World." Workable but 
 - Batch 2 (Cartesian lineage, 6 entries): 6 ✓.
 - Batch 8 (predictions and futures, 3 entries): 3 ✓.
 - Three first drafts banked: preface (2,336 body), Ch 1 (3,824 body), Ch 14 (3,278 body); 9,438 body words total. The preface received a voice-check + review pass.
+
+### 2026-04-25 — Working production session 2 (`/go` script run → four sections reviewed, Ch 2 banked, Batch 3 verified)
+- `/go` script of session-1's queued plan run end-to-end. Eight commits (voice-check ch01, review ch01, voice-check ch14, review ch14, draft ch02 first draft, voice-check ch02, review ch02, sources verify Batch 3).
+- Voice-check + review passes on Ch 1 (4 voice revisions, 3 review findings) and Ch 14 (3 voice revisions, 0 review findings beyond voice-check). Ch 1 factual fix: the *Discourse on the Method* was published as the introduction to the three essays, not "in the back" of them.
+- Drafted Ch 2 — *The Three Returns* — at 3,609 body / 3,988 with footnotes; nine footnotes from Batch 1 verified pool. Includes a substantive disagreements section (scale, formal modelling, internal reformability) treating the three structural questions on which Ackoff, Meadows, and Senge actually differed. Length 191 words below the 3,800 honest-short floor; committed without padding per the length-floor decision.
+- Batch 3 (Chapter 8 sources, 7 entries): all ✓ VERIFIED. Berger × 2, Le Guin × 2, Tolstoy, Robinson, Lewis. Two new edition decisions resolved by AI under standing director delegation:
+  - Le Guin *Steering the Craft*: cite the 2015 Mariner revised edition as canonical; 1998 Eighth Mountain Press original noted as historical first.
+  - Tolstoy *What Is Art?*: cite the Hackett 1995 reprint of Aylmer Maude's authorised translation (Vincent Tomas introduction) as the citing text; 1899 Walter Scott Ltd. London first English edition noted historically; Pevear/Volokhonsky 1995 Penguin Classics noted as a respected contemporary alternative.
+- Removed an unverified named-author reference (Wiener) from the Ch 2 body during the review pass; reformulated to "the older cybernetic tradition" without the named figure, since Wiener is ✗ UNVERIFIED in `06_SOURCES.md`.
+- Caught a batch-numbering inconsistency in the previous next-session script (called "Batch 4" what is actually "Batch 3" per `06_SOURCES.md`); resolved by using the canonical batch numbering from the verification status table.
+- Total drafted at end of session: 13,047 body / 14,204 with footnotes across four sections (preface + Ch 1 + Ch 2 + Ch 14). Twenty-five footnotes total. ~18.6% of the ~70,000-word target.
