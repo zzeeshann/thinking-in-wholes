@@ -6,9 +6,9 @@
 
 ## Current phase
 
-**PREFACE FIRST DRAFT COMPLETE → READY FOR DIRECTOR REVIEW + VOICE CHECK**
+**PREFACE READY FOR DIRECTOR REVIEW · BATCH 2 VERIFIED · CH 1 UNBLOCKED**
 
-The foundational verified-source pool exists (18 entries from Batch 1). The preface is drafted to 2,301 body words (2,542 with footnotes) — slightly under the 2,500 target, which length discipline allows since the argument is complete. Six footnotes naming the lineage (Ackoff, Meadows, Singer, Whitehead, Bergson, Alexander, Jacobs); zero `[SOURCE NEEDED]` flags open. Two open editorial decisions still pending the director (Senge 1990 vs 2006; Whitehead 1929 vs 1978 corrected) — neither blocks the preface, both will block Ch 5/6 and Ch 11 respectively.
+The preface is voice-checked and reviewed (2,336 body / 2,577 with footnotes; six footnotes; zero unresolved `[SOURCE NEEDED]` flags). Batch 2 verification complete: Descartes, Newton, Smith, Taylor, Kanigel, Capra all ✓ VERIFIED, with standard modern editions specified for the three historical primaries (Cottingham/Stoothoff/Murdoch for Descartes; Cohen/Whitman for Newton; Glasgow Edition for Smith). Newton publisher discrepancy (Royal Society → Joseph Streater for the Royal Society) corrected. Chapter 1 — The Cartesian Wound is now drafting-ready. Two open editorial decisions still pending the director (Senge 1990 vs 2006; Whitehead 1929 vs 1978) but neither blocks Ch 1.
 
 ---
 
@@ -33,11 +33,10 @@ The foundational verified-source pool exists (18 entries from Batch 1). The pref
 ## Next session — what to do first
 
 1. Run `/start` — Claude Code reads the project state.
-2. Run `/voice-check preface` — calibrate the first draft against Robinson, Berger, Meadows. Revise weak passages.
-3. Run `/review preface` — full pass against the style guide and the 2040 frame.
-4. Director review of the preface. Flag any voice drift, soft argument, or sentence the director would not let into the book as-is.
-5. Resolve the two open edition decisions (Senge 1990 vs 2006; Whitehead 1929 vs 1978) — log in `03_DECISIONS.md`. Both decisions block subsequent chapters but not subsequent verification.
-6. Run `/verify Batch 2 — Chapter 1 sources` (Descartes translations, Newton edition, Smith edition, Taylor 1911, Kanigel, Capra) before drafting Ch 1.
+2. Director review of the preface ([drafts/preface.md](../drafts/preface.md)) — voice, argument, anything to cut or sharpen.
+3. Resolve the two open edition decisions (Senge 1990 vs 2006; Whitehead 1929 vs 1978) — log in `03_DECISIONS.md`. Neither blocks Ch 1, but both block subsequent chapters.
+4. Run `/draft chapter 1` — *The Cartesian Wound*. All sources are verified. The ~4,500-word target opens the book's real argument; the chapter must do three things: (a) establish the full lineage of parts-thinking (Descartes → Newton → Smith → Taylor → Ford), (b) honour what analysis got right for 350 years, (c) name where the method's success became its trap. Use only ✓ VERIFIED sources from `06_SOURCES.md`.
+5. Run `/voice-check ch01` and `/review ch01` after the first draft lands.
 
 ---
 
@@ -73,7 +72,7 @@ The foundational verified-source pool exists (18 entries from Batch 1). The pref
 | Batch | Description | Status |
 |---|---|---|
 | Batch 1 | Foundational systems-thinking canon (18 sources) | **complete — 17 ✓ / 1 ⏳ / 0 ✗** (2026-04-25) |
-| Batch 2 | Chapter 1 sources (Cartesian lineage) | not started |
+| Batch 2 | Chapter 1 sources (Cartesian lineage, 6 sources) | **complete — 6 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 | Batch 3 | Chapter 8 sources (creators) | not started |
 | Batch 4 | Chapter 9 sources (architecture) | not started |
 | Batch 5 | Chapter 10 sources (engineering) | not started |

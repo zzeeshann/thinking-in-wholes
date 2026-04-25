@@ -21,6 +21,8 @@
 
 - **2026-04-25 — Batch 1 (foundational systems-thinking canon, 18 entries).** Web-verified against publisher catalogs, Open Library, Internet Archive, HathiTrust, Wikipedia, PhilPapers, Penn Archives, Cambridge Core, Google Books, and rare-book catalogs. Result: **17 ✓ VERIFIED, 1 ⏳ PARTIAL, 0 ✗ UNVERIFIED.** PARTIAL entry: Singer, *On the Contented Life* (year 1936 vs 1937 ambiguity in catalogs — re-verify against a physical copy or WorldCat OCLC record before publication). Discrepancies caught and corrected during verification: the *A Pattern Language* author list was incomplete (Jacobson, Fiksdahl-King, Angel were missing as credited co-authors — added); Singer's death year was wrong in `00_PROJECT_BRIEF.md` (1955 → 1954 — corrected); Beer 1972 has separate UK and US first editions (UK retained as primary citation). Open editorial decisions surfaced: (a) Senge *Fifth Discipline* 1990 vs 2006 edition, (b) Whitehead *Process and Reality* 1929 vs 1978 corrected edition.
 
+- **2026-04-25 — Batch 2 (Chapter 1 — Cartesian lineage, 6 entries).** Web-verified against Cambridge Core, Cambridge UP, University of California Press, Oxford UP, Open Library, Internet Archive, Library of Congress, PhilPapers, Wikipedia, and rare-book catalogs. Result: **6 ✓ VERIFIED, 0 ⏳ PARTIAL, 0 ✗ UNVERIFIED.** Standard modern scholarly editions specified for the three historical primaries: Descartes via Cottingham/Stoothoff/Murdoch (Cambridge UP, 1985); Newton via Cohen/Whitman (UC Press, 1999); Smith via the Glasgow Edition (Oxford/Clarendon, 1976). Newton publisher discrepancy corrected — original entry attributed to "Royal Society"; the printer was Joseph Streater, working for the Royal Society. Taylor 1911 has three printings in early 1911 (February ASME confidential, March private, April trade) — recommend citing the trade edition unless quoting from a specific earlier printing.
+
 ---
 
 ## Foundational — applies across the book
@@ -40,12 +42,12 @@
 
 ## Chapter 1 — The Cartesian Wound
 
-- ✗ **[P]** Descartes, René. *Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences*. 1637. *(Specify English translation and edition for citation.)*
-- ✗ **[P]** Newton, Isaac. *Philosophiæ Naturalis Principia Mathematica*. London: Royal Society, 1687. *(Specify translation/edition.)*
-- ✗ **[P]** Smith, Adam. *An Inquiry into the Nature and Causes of the Wealth of Nations*. London: W. Strahan and T. Cadell, 1776. *(Specify edition for citation.)*
-- ✗ **[P]** Taylor, Frederick Winslow. *The Principles of Scientific Management*. New York: Harper & Brothers, 1911.
-- ✗ **[S]** Kanigel, Robert. *The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency*. New York: Viking, 1997.
-- ✗ **[S]** Capra, Fritjof. *The Turning Point: Science, Society, and the Rising Culture*. New York: Simon & Schuster, 1982.
+- ✓ **[P]** Descartes, René. *Discourse on the Method*. 1637. Cite from *The Philosophical Writings of Descartes*, vol. 1, trans. John Cottingham, Robert Stoothoff, and Dugald Murdoch (Cambridge: Cambridge University Press, 1985). *(Original: *Discours de la méthode pour bien conduire sa raison et chercher la vérité dans les sciences*, Leiden: Jan Maire, 1637. The Cottingham/Stoothoff/Murdoch translation is the standard modern scholarly English; *Discourse on the Method* is in volume 1 of the two-volume set, translated by Stoothoff. ISBN 9780521288071.)*
+- ✓ **[P]** Newton, Isaac. *Philosophiæ Naturalis Principia Mathematica*. London: Joseph Streater, for the Royal Society of London, 1687. Cite English translation as: *The Principia: Mathematical Principles of Natural Philosophy*, trans. I. Bernard Cohen and Anne Whitman, assisted by Julia Budenz, with "A Guide to Newton's Principia" by I. Bernard Cohen (Berkeley: University of California Press, 1999). *(The Cohen/Whitman translation, based on the 1726 third edition (the final revised version approved by Newton), is the first new English translation in 285 years and the standard modern scholarly edition. Original entry mis-attributed publisher as "Royal Society"; corrected — the printer was Joseph Streater, the work was published for the Royal Society. ISBN 9780520088177.)*
+- ✓ **[P]** Smith, Adam. *An Inquiry into the Nature and Causes of the Wealth of Nations*. 1776. Cite the Glasgow Edition: ed. R. H. Campbell and A. S. Skinner, textual ed. W. B. Todd, 2 vols., Glasgow Edition of the Works and Correspondence of Adam Smith (Oxford: Clarendon Press; New York: Oxford University Press, 1976). *(Original: London: W. Strahan and T. Cadell, 1776. The Glasgow Edition is the definitive scholarly text.)*
+- ✓ **[P]** Taylor, Frederick Winslow. *The Principles of Scientific Management*. New York: Harper & Brothers, 1911. *(The standard citation is the trade edition of April 1911; a confidential edition was issued in February 1911 for members of the American Society of Mechanical Engineers, and a private edition followed in March. Cite the trade edition unless quoting from the ASME printing.)*
+- ✓ **[S]** Kanigel, Robert. *The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency*. New York: Viking, 1997. *(675 pp.; ISBN 9780670864027. Sloan Technology Series; UK hardcover from Little, Brown the same year; MIT Press paperback 2005.)*
+- ✓ **[S]** Capra, Fritjof. *The Turning Point: Science, Society, and the Rising Culture*. New York: Simon & Schuster, 1982. *(464 pp.; ISBN 9780671244231; Bantam paperback 1983.)*
 
 ## Chapter 2 — The Three Returns
 
