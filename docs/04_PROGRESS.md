@@ -34,13 +34,32 @@ Three sections committed, opening through closing: preface (voice-checked + revi
 
 ---
 
-## Next session — what to do first
+## Next session — when the director says "go", run this script in order
 
-1. Run `/start` — Claude Code reads the project state.
-2. Director review of preface, Ch 1, and Ch 14 ([drafts/preface.md](../drafts/preface.md), [drafts/ch01_cartesian_wound.md](../drafts/ch01_cartesian_wound.md), [drafts/ch14_what_2040_learned.md](../drafts/ch14_what_2040_learned.md)). Ch 14 is the most exposed of the three; pay particular attention to whether the nine predictions strike the right balance between specificity (so the 2040 reader can grade them) and avoidance of period-piece detail (so the prose doesn't age).
-3. Run `/voice-check` and `/review` on Ch 1 and Ch 14.
-4. Continue numerically with Ch 2 (*The Three Returns*). Foundational pool already covers it; no further verification needed. Ch 2 is the natural follow-on to Ch 1's "the systems thinkers who came after" hinge.
-5. After Ch 2: run `/verify Batch 3 — Chapter 1 already covered; Batch 4 — Chapter 8 (Berger, Le Guin, Tolstoy, Robinson, Lewis)` before drafting Ch 8 — *The Maker's Dilemma*, which is the core craft chapter for the primary audience (creators).
+The director has demonstrated a pattern of saying "go" to authorise the AI to proceed through queued work autonomously, with director review at the end of each unit. Treat each numbered item below as standing-authorised: do it, commit, move to the next. Do not pause between items unless an item explicitly says "wait for director" or you hit a genuine blocker.
+
+1. **`/voice-check ch01`** — calibrate [drafts/ch01_cartesian_wound.md](../drafts/ch01_cartesian_wound.md) against Robinson / Berger / Meadows. Identify the gap. Make 2–4 substantive revisions in place. Commit: `drafts: voice calibration pass on ch01`.
+
+2. **`/review ch01`** — full pass against the style guide and the 2040 frame on [drafts/ch01_cartesian_wound.md](../drafts/ch01_cartesian_wound.md). Apply every fix. Commit: `drafts: review pass on ch01 (N findings addressed)`.
+
+3. **`/voice-check ch14`** — same as step 1, on [drafts/ch14_what_2040_learned.md](../drafts/ch14_what_2040_learned.md). Pay particular attention to whether the nine predictions read as calm and specific (good) rather than breathless or hedged (bad).
+
+4. **`/review ch14`** — same as step 2, on [drafts/ch14_what_2040_learned.md](../drafts/ch14_what_2040_learned.md). Ch 14 is the most exposed chapter; be hard on it.
+
+5. **`/draft ch02`** — *The Three Returns*. Foundational pool (Batch 1) already covers all primary sources. Single argument per the outline: Ackoff, Meadows, Senge — what each saw that the others missed, what each got wrong, and the lineage continued (Forrester, Churchman, Beer, Gharajedaghi). Target 4,500 body words (3,800 honest-short floor). Use only ✓ VERIFIED sources. Per `03_DECISIONS.md`, Senge's 1990 first edition is canonical; Whitehead's 1978 corrected edition is the citing text where Whitehead is engaged. **Wait for director** before drafting if there is any ambiguity about scope; otherwise auto-proceed.
+
+6. **`/voice-check ch02`** and **`/review ch02`** — same passes on the new draft.
+
+7. **`/verify Batch 4 — Chapter 8 sources`** (Berger, Le Guin, Tolstoy, Robinson, Lewis). This unblocks Ch 8 — *The Maker's Dilemma*, the core craft chapter for the primary audience (creators).
+
+8. End of script. Run `/end-session`, push to `origin/main`, tag the milestone if appropriate, summarise to director.
+
+### Standing notes for next session
+
+- **`/review` is the project's pass, not `/ultrareview`.** `/ultrareview` is Claude Code's built-in *cloud multi-agent review of a git branch* — paid, user-triggered, irrelevant to the in-session writing workflow. The project's review command is defined in [.claude/commands/review.md](../.claude/commands/review.md). Do not confuse them.
+- All editorial decisions are resolved; no open questions block any of the steps above.
+- Commits use scope prefixes (`drafts:`, `ch02:`, `sources:`, `meta:`, `session:`) and follow the conventions in `CLAUDE.md`.
+- The director may interrupt the script at any point; treat any interruption as override.
 
 ---
 

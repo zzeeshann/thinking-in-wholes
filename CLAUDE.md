@@ -74,6 +74,17 @@ Run the `/end-session` flow: update progress, log decisions, final commit, summa
 
 Each command lives in `.claude/commands/`. Read the command file before executing it.
 
+> **Naming caution:** the project's `/review` is **not** the same as Claude Code's built-in `/ultrareview`. `/review` is a lightweight, in-session pass against `02_STYLE_GUIDE.md` and the 2040 frame, defined in `.claude/commands/review.md`, and is part of the writing workflow. `/ultrareview` is Claude Code's built-in *cloud multi-agent review of a git branch or PR* — paid, user-triggered, run outside this conversation. Do not substitute one for the other; when the workflow calls for review, use `/review`.
+
+## Standing authorisation pattern
+
+The director's working pattern is to type `go` to authorise the AI to proceed through the queued next-session script in `docs/04_PROGRESS.md` autonomously. When `go` is given:
+
+- Treat each numbered step in the next-session script as standing-authorised. Run it, commit, move on.
+- Do not pause between steps unless a step explicitly says "wait for director" or you hit a genuine blocker (an unresolved `[SOURCE NEEDED]`, an editorial decision the director has not made, a forbidden-vocab violation that requires a judgement call).
+- Update `docs/04_PROGRESS.md` and commit at the end of each unit of work, not in one giant batch at the end.
+- The director can interrupt at any time; an interruption is an override, not an objection requiring justification.
+
 ---
 
 ## Authorship transparency
