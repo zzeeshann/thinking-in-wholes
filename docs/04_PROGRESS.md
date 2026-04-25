@@ -34,9 +34,15 @@ Three sections committed, opening through closing: preface (voice-checked + revi
 
 ---
 
-## Next session — when the director says "go", run this script in order
+## Next session — single command, then autonomous
 
-The director has demonstrated a pattern of saying "go" to authorise the AI to proceed through queued work autonomously, with director review at the end of each unit. Treat each numbered item below as standing-authorised: do it, commit, move to the next. Do not pause between items unless an item explicitly says "wait for director" or you hit a genuine blocker.
+**Director types `/go` (defined in `.claude/commands/go.md`). Nothing else needed.**
+
+The `/go` command reads the full project state, recalls every prime directive (citation discipline, 2040 frame, voice rules, forbidden vocabulary, no-direct-quotation rule, length floor, `/review` ≠ `/ultrareview`), then runs the script below autonomously — committing per unit, pushing at the end. No per-step confirmation required. Director may interrupt at any time; an interruption overrides the script.
+
+If the director prefers manual control, type `/start` instead — it does only the file-reading and waits for direction.
+
+### The script `/go` runs
 
 1. **`/voice-check ch01`** — calibrate [drafts/ch01_cartesian_wound.md](../drafts/ch01_cartesian_wound.md) against Robinson / Berger / Meadows. Identify the gap. Make 2–4 substantive revisions in place. Commit: `drafts: voice calibration pass on ch01`.
 

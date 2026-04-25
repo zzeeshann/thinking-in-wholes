@@ -64,7 +64,8 @@ Run the `/end-session` flow: update progress, log decisions, final commit, summa
 
 | Command | Purpose |
 |---|---|
-| `/start` | Session startup checklist |
+| **`/go`** | **Master entry point. Reads full project state, recalls prime directives, runs the queued next-session script autonomously, commits per unit, pushes at end. Use this at the start of any new session.** |
+| `/start` | Session startup checklist (subset of `/go` — reads files, reports next step, waits for direction). |
 | `/verify <batch>` | Run citation verification for a batch |
 | `/draft <section>` | Draft a section (preface or chapter) |
 | `/review <section>` | Review draft against style guide and 2040 frame |
