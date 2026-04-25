@@ -93,6 +93,7 @@ If the director prefers manual control, type `/start` instead — it does only t
 | Batch 2 | Chapter 1 sources (Cartesian lineage, 6 sources) | **complete — 6 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 | Batch 3 | Chapter 8 sources (creators, 7 sources) | **complete — 7 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 | Ch 3 supporting | Chapter 3 sources (Bertalanffy, Wiener, Holland — 3 sources) | **complete — 3 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
+| Ch 4 supporting | Chapter 4 sources (Singer × 2, Ackoff & Emery, Pearl & Mackenzie — 4 sources) | **complete — 4 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 | Batch 4 | Chapter 9 sources (architecture) | not started |
 | Batch 5 | Chapter 10 sources (engineering) | not started |
 | Batch 6 | Chapter 11 sources (philosophy) | not started |
