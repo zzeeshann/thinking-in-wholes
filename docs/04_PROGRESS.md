@@ -6,9 +6,9 @@
 
 ## Current phase
 
-**PREFACE + CH 1 + CH 14 FIRST DRAFTS BANKED · BATCHES 1, 2, 8 VERIFIED · DESTINATION SET**
+**PREFACE + CH 1 + CH 14 FIRST DRAFTS BANKED · BATCHES 1, 2, 8 VERIFIED · DESTINATION SET · ALL OPEN DECISIONS RESOLVED**
 
-Three sections committed, opening through closing: preface (voice-checked + reviewed), Ch 1 — *The Cartesian Wound*, and Ch 14 — *What 2040 Will Have Learned*. Total drafted body: 9,438 words (preface 2,336 + Ch 1 3,824 + Ch 14 3,278); 10,216 with footnotes. Sixteen footnotes total, all from the verified pool (Batches 1, 2, 8). Zero unresolved `[SOURCE NEEDED]` flags. Ch 14 is intentionally under the 4,500 target (3,278 body) — the chapter puts nine predictions on the record and made the book's central closing argument; padding it would weaken the discipline it models. Two open editorial decisions still pending the director (Senge 1990 vs 2006; Whitehead 1929 vs 1978).
+Three sections committed, opening through closing: preface (voice-checked + reviewed), Ch 1 — *The Cartesian Wound*, and Ch 14 — *What 2040 Will Have Learned*. Total drafted body: 9,438 words (preface 2,336 + Ch 1 3,824 + Ch 14 3,278); 10,216 with footnotes. Sixteen footnotes total, all from the verified pool (Batches 1, 2, 8). Zero unresolved `[SOURCE NEEDED]` flags. Ch 14 is intentionally under the 4,500 target (3,278 body) — the chapter puts nine predictions on the record and made the book's central closing argument; padding it would weaken the discipline it models. Two previously-open editorial decisions resolved 2026-04-25 by AI under director delegation: Senge 1990 first edition is canonical primary; Whitehead 1978 Griffin/Sherburne corrected edition is the citing text (1929 retained as historical original). Both logged in `03_DECISIONS.md` and locked in `06_SOURCES.md`. No open decisions remain.
 
 ---
 
@@ -30,7 +30,7 @@ Three sections committed, opening through closing: preface (voice-checked + revi
 - Ran Batch 8 verification (3 Ch 14 sources): Brand, Tetlock & Gardner, Davies — all ✓ VERIFIED, no discrepancies.
 - Drafted Chapter 14 — *What 2040 Will Have Learned* — first draft at 3,278 body words / 3,480 with footnotes. Four footnotes (Tetlock & Gardner, Davies, Ackoff, Brand). Nine predictions on the record across three groups (AI, climate, institutional), with reasoning shown for each; five hopes named openly; closing argument for the developed person as the unit on which the systems response runs. Two forbidden-vocab violations caught in my own expansions ("fundamentally" and "in essentials") and fixed before commit. Length ~1,200 under the 4,500 target and ~500 below the "honest short" floor — but the chapter is the most exposed in the book, putting predictions on the record, and padding it would weaken the discipline it models.
 
-**Where we left off:** Three first drafts banked (preface, Ch 1, Ch 14 — beginning, beginning-of-argument, end-of-argument). The destination is set; the middle can now be written into a known shape. Ready for director review of all three drafts, voice-check + review passes on Ch 1 and Ch 14, and the open edition decisions on Senge and Whitehead.
+**Where we left off:** Three first drafts banked (preface, Ch 1, Ch 14 — beginning, beginning-of-argument, end-of-argument). The destination is set; the middle can now be written into a known shape. Both previously-open edition decisions (Senge, Whitehead) resolved by AI under director delegation. Repository pushed public to GitHub at `zzeeshann/thinking-in-wholes`. Ready for director review of all three drafts and voice-check + review passes on Ch 1 and Ch 14.
 
 ---
 
@@ -39,8 +39,8 @@ Three sections committed, opening through closing: preface (voice-checked + revi
 1. Run `/start` — Claude Code reads the project state.
 2. Director review of preface, Ch 1, and Ch 14 ([drafts/preface.md](../drafts/preface.md), [drafts/ch01_cartesian_wound.md](../drafts/ch01_cartesian_wound.md), [drafts/ch14_what_2040_learned.md](../drafts/ch14_what_2040_learned.md)). Ch 14 is the most exposed of the three; pay particular attention to whether the nine predictions strike the right balance between specificity (so the 2040 reader can grade them) and avoidance of period-piece detail (so the prose doesn't age).
 3. Run `/voice-check` and `/review` on Ch 1 and Ch 14.
-4. Resolve the two open edition decisions (Senge 1990 vs 2006; Whitehead 1929 vs 1978) — log in `03_DECISIONS.md`. The Senge decision blocks Ch 5–6; the Whitehead decision blocks Ch 11.
-5. Continue numerically with Ch 2 (*The Three Returns*). Foundational pool already covers it; no further verification needed. Ch 2 is the natural follow-on to Ch 1's "the systems thinkers who came after" hinge.
+4. Continue numerically with Ch 2 (*The Three Returns*). Foundational pool already covers it; no further verification needed. Ch 2 is the natural follow-on to Ch 1's "the systems thinkers who came after" hinge.
+5. After Ch 2: run `/verify Batch 3 — Chapter 1 already covered; Batch 4 — Chapter 8 (Berger, Le Guin, Tolstoy, Robinson, Lewis)` before drafting Ch 8 — *The Maker's Dilemma*, which is the core craft chapter for the primary audience (creators).
 
 ---
 

@@ -81,6 +81,15 @@
 ### 2026-04-25 — Two open edition decisions deferred to director
 **Decision:** Two editorial decisions surfaced during Batch 1 verification remain explicitly unresolved: (a) Senge, *The Fifth Discipline*, 1990 first edition vs 2006 revised edition; (b) Whitehead, *Process and Reality*, 1929 Macmillan first vs 1978 Griffin/Sherburne corrected edition. The writer can draft preface, Ch 1, and Ch 14 without resolving either, but Ch 5/6 (Senge) and Ch 11 (Whitehead) cannot be drafted until they are resolved.
 **Reasoning:** The decisions are editorial judgments about scholarly convention that belong to the director, not the writer. Both editions are real and citable; the question is which is canonical for this book.
+**Resolved 2026-04-25 (delegated to AI by director):** See the two entries immediately following.
+
+### 2026-04-25 — Senge canonical edition
+**Decision:** Cite *The Fifth Discipline*, 1990 first edition (New York: Doubleday/Currency) as the canonical primary throughout the book. The 2006 revised edition (New York: Currency / Doubleday Business) is admissible when the point being made is Senge's later self-correction or his updated examples; in those cases, cite both editions explicitly.
+**Reasoning:** The brief commits to engaging thinkers as primary texts. The 1990 first edition is the work that shaped the field of organisational learning over the following sixteen years; it is what Senge's interlocutors and critics responded to; it is the historical primary. The 2006 revision is Senge's response to that reception — valuable, but a second-order text. Citing the 1990 is the conservative scholarly convention.
+
+### 2026-04-25 — Whitehead canonical edition
+**Decision:** Cite *Process and Reality*, 1978 corrected edition, ed. David Ray Griffin and Donald W. Sherburne (New York: Free Press), as the cited edition for all quotations and page references. The 1929 Macmillan first edition is preserved in the bibliography as the original publication, with a note pointing to the 1978 corrected edition as the citing text.
+**Reasoning:** The 1929 first edition contains documented textual inaccuracies; the 1978 Griffin/Sherburne corrected edition exists to fix them and is the scholarly standard for process philosophy. Citing the 1929 first edition would mean reproducing known errors when the corrected text is widely available. *Science and the Modern World* (1925) — Whitehead's other work cited in the foundational pool — has no comparable corrected edition issue and is cited from the 1925 Macmillan as before.
 
 ---
 
