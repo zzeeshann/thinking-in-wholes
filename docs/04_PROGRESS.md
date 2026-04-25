@@ -6,9 +6,9 @@
 
 ## Current phase
 
-**BATCH 1 VERIFICATION COMPLETE → READY TO DRAFT PREFACE**
+**PREFACE FIRST DRAFT COMPLETE → READY FOR DIRECTOR REVIEW + VOICE CHECK**
 
-The foundational verified-source pool now exists: 18 entries verified across the canonical primaries (Ackoff, Meadows, Senge, Forrester, Churchman, Beer, Gharajedaghi, Singer ×2, Alexander ×2, Jacobs, Whitehead ×2, Bergson). Two open editorial decisions surfaced (Senge 1990 vs 2006; Whitehead 1929 vs 1978 corrected) — both noted inline in `06_SOURCES.md`. The preface can now be drafted using only verified sources.
+The foundational verified-source pool exists (18 entries from Batch 1). The preface is drafted to 2,301 body words (2,542 with footnotes) — slightly under the 2,500 target, which length discipline allows since the argument is complete. Six footnotes naming the lineage (Ackoff, Meadows, Singer, Whitehead, Bergson, Alexander, Jacobs); zero `[SOURCE NEEDED]` flags open. Two open editorial decisions still pending the director (Senge 1990 vs 2006; Whitehead 1929 vs 1978 corrected) — neither blocks the preface, both will block Ch 5/6 and Ch 11 respectively.
 
 ---
 
@@ -24,18 +24,20 @@ The foundational verified-source pool now exists: 18 entries verified across the
   - Beer *Brain of the Firm* 1972 has separate UK (Allen Lane the Penguin Press) and US (Herder and Herder) first editions — UK confirmed as primary citation, US noted.
 - Open editorial decisions surfaced for resolution before drafting Ch 5–6 (Senge edition) and Ch 11 (Whitehead edition).
 - Logged verification batch in `06_SOURCES.md` under a new "Verification log" section.
+- Drafted the preface ("Letter to the 2040 Reader") at 2,301 body words (2,542 with footnotes). Six footnotes; zero unresolved `[SOURCE NEEDED]` flags. Forbidden-vocab sweep clean; 2040-frame check clean (no specific 2026 company / political-figure / platform / controversy references; AI named only as a class of technology); both rhetorical questions are answered with substance per style guide.
 
-**Where we left off:** Batch 1 done. The foundational pool is real and citable. Ready to draft the preface.
+**Where we left off:** Preface first draft complete. Ready for `/voice-check preface` calibration against Robinson/Berger/Meadows, and director review. The two open edition decisions still need resolution before Ch 5/6 (Senge) and Ch 11 (Whitehead) can begin.
 
 ---
 
 ## Next session — what to do first
 
 1. Run `/start` — Claude Code reads the project state.
-2. Run `/draft preface` — write the "Letter to the 2040 Reader". Use only ✓ VERIFIED sources from `06_SOURCES.md`. Flag any new claim needing a source as `[SOURCE NEEDED: …]`.
-3. Run `/voice-check preface` after the first draft lands — calibrate against Robinson, Berger, Meadows.
-4. Optionally, before drafting Ch 1 begins, run `/verify Batch 2 — Chapter 1 sources` (Descartes translations, Newton edition, Smith edition, Taylor 1911, Kanigel, Capra).
-5. Resolve the two open edition decisions (Senge 1990 vs 2006; Whitehead 1929 vs 1978) — log in `03_DECISIONS.md`.
+2. Run `/voice-check preface` — calibrate the first draft against Robinson, Berger, Meadows. Revise weak passages.
+3. Run `/review preface` — full pass against the style guide and the 2040 frame.
+4. Director review of the preface. Flag any voice drift, soft argument, or sentence the director would not let into the book as-is.
+5. Resolve the two open edition decisions (Senge 1990 vs 2006; Whitehead 1929 vs 1978) — log in `03_DECISIONS.md`. Both decisions block subsequent chapters but not subsequent verification.
+6. Run `/verify Batch 2 — Chapter 1 sources` (Descartes translations, Newton edition, Smith edition, Taylor 1911, Kanigel, Capra) before drafting Ch 1.
 
 ---
 
@@ -43,7 +45,7 @@ The foundational verified-source pool now exists: 18 entries verified across the
 
 | Section | Status | Word count | Last touched |
 |---|---|---|---|
-| Preface | not started | 0 / 2,500 | — |
+| Preface | first draft | 2,301 body / 2,542 with footnotes | 2026-04-25 |
 | Ch 1 — The Cartesian Wound | not started | 0 / 4,500 | — |
 | Ch 2 — The Three Returns | not started | 0 / 4,500 | — |
 | Ch 3 — The Anatomy of a System | not started | 0 / 4,500 | — |
@@ -62,7 +64,7 @@ The foundational verified-source pool now exists: 18 entries verified across the
 | Glossary | not started | 0 / 1,500 | — |
 | References | not started | — | — |
 
-**Total drafted:** 0 / ~70,000 words
+**Total drafted:** 2,301 / ~70,000 words (preface body; 2,542 with footnotes)
 
 ---
 
