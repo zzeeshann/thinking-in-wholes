@@ -100,7 +100,7 @@ Q5 is in `03_DECISIONS.md` under OPEN. It does not block the next-session script
 | Ch 6 supporting | Chapter 6 sources (Sterman 2000, Stroh 2015 — 2 sources) | **complete — 2 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 | Ch 7 supporting | Chapter 7 sources (Meadows et al. 1972, Meadows et al. 2004, Kahneman 2011 — 3 sources) | **complete — 3 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 | Batch 6 | Chapter 11 sources (Wittgenstein 1953, Rescher 2000 — 2 sources) | **complete — 2 ✓ / 0 ⏳ / 0 ✗** (2026-04-25); edition decision (PI 1953 Anscombe vs 2009 Hacker/Schulte) left **OPEN** for director (Q5 in 03_DECISIONS.md) |
-| Batch 7 | Chapter 12–13 sources (the connected life) | not started |
+| Batch 7 | Chapter 12–13 sources (the connected life and the developed person, 6 entries) | **complete — 5 ✓ / 0 ⏳ / 1 ✗** (2026-04-29); Greater Good "annual reports" entry unverifiable, Q6 opened in `03_DECISIONS.md` for director on Berkeley research substitute; *The Compassionate Instinct* (2010 W. W. Norton) added to Ch 12 verified pool as candidate substitute |
 | Batch 8 | Chapter 14 sources (predictions, futures, 3 sources) | **complete — 3 ✓ / 0 ⏳ / 0 ✗** (2026-04-25) |
 
 Verification batches run **before** drafting the chapter that needs them. No chapter drafts begin until its citation batch is complete.
