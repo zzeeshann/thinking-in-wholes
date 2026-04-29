@@ -110,6 +110,9 @@
 ### Q4 — Subtitle
 The primer used "How to Live, Work and Lead in a Connected World." Workable but generic. Decide once the book has a clearer center; revisit after Part I is drafted.
 
+### Q5 — Wittgenstein *Philosophical Investigations* canonical translation
+Surfaced 2026-04-25 during Batch 6 verification. The 1953 Basil Blackwell first edition (translator G. E. M. Anscombe; editors Rush Rhees and G. E. M. Anscombe) is bibliographically verified and is the historical primary. The 4th edition (Oxford: Wiley-Blackwell, 2009), with revised translation by P. M. S. Hacker and Joachim Schulte, is widely cited in contemporary Wittgenstein scholarship and is now the standard scholarly edition for new work in the field. The choice between them is contested in the literature: the Whitehead 1978 / Wiener 1961 / Le Guin 2015 / Tolstoy Hackett-1995 precedents — under which AI has resolved similar edition questions under standing director delegation — do not apply here, because in those cases the corrected/revised edition was uncontested scholarly standard. The Hacker/Schulte revision is not. Some Wittgenstein scholars (Cora Diamond, Stephen Mulhall, others in that interpretive lineage) retain Anscombe's translation on the grounds that the Hacker/Schulte revision changes the philosophical sense of specific passages; others (the Wittgenstein-as-philosopher-of-ordinary-language tradition) prefer the revision. Director's call. Resolution required before any direct citation of *Philosophical Investigations* in the Ch 11 draft. The bibliographic data of the 1953 entry is verified either way and the entry stands in `06_SOURCES.md` as ✓ VERIFIED.
+
 ---
 
 ## CHANGE LOG (for major revisions to brief, outline, or style)
