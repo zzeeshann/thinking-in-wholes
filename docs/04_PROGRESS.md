@@ -70,7 +70,7 @@ Q5 is in `03_DECISIONS.md` under OPEN. It does not block the next-session script
 | Ch 5 — The Tyranny of Local Optima | voice-checked + reviewed | 3,307 body / 3,651 with footnotes | 2026-04-25 |
 | Ch 6 — The Loop You're Inside | voice-checked + reviewed | 3,132 body / 3,559 with footnotes | 2026-04-25 |
 | Ch 7 — Delay, Overshoot, and the Grief of Premature Action | voice-checked + reviewed | 3,802 body / 4,424 with footnotes | 2026-04-25 |
-| Ch 8 — The Maker's Dilemma | first draft | 4,129 body / 4,792 with footnotes | 2026-04-29 |
+| Ch 8 — The Maker's Dilemma | voice-checked + reviewed | 4,110 body / 4,773 with footnotes | 2026-04-29 |
 | Ch 9 — Architecture as Frozen Worldview | not started | 0 / 4,500 | — |
 | Ch 10 — Engineering Beyond Mechanism | not started | 0 / 4,500 | — |
 | Ch 11 — Philosophy in the Age of Wholes | not started | 0 / 4,500 | — |
