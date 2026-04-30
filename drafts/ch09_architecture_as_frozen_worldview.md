@@ -72,7 +72,7 @@ The fight is not easy. The discipline the systems tradition asks of the maker â€
 
 [^1]: Christopher Alexander, *The Timeless Way of Building* (New York: Oxford University Press, 1979). The patterns mentioned and Alexander's account of how they were derived are treated throughout this volume, the philosophical companion to the catalogue described in note 2.
 
-[^2]: Christopher Alexander, Sara Ishikawa, and Murray Silverstein, with Max Jacobson, Ingrid Fiksdahl-King, and Shlomo Angel, *A Pattern Language: Towns, Buildings, Construction* (New York: Oxford University Press, 1977). The catalogue contains two hundred and fifty-three patterns, ordered from regional patterns at the largest scale to small interior patterns at the smallest.
+[^2]: Christopher Alexander, Sara Ishikawa, Murray Silverstein, with Max Jacobson, Ingrid Fiksdahl-King, and Shlomo Angel, *A Pattern Language: Towns, Buildings, Construction* (New York: Oxford University Press, 1977). The catalogue contains two hundred and fifty-three patterns, ordered from regional patterns at the largest scale to small interior patterns at the smallest.
 
 [^3]: Alexander, *Timeless Way of Building*. The phrase *the quality without a name* is the title of an early chapter of the book, in which Alexander introduces the property and explains why it cannot be reduced to any analysable feature.
 
