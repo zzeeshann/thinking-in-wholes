@@ -72,7 +72,7 @@ Both Q5 (Wittgenstein PI translation) and Q6 (Berkeley research / Greater Good s
 | Ch 7 — Delay, Overshoot, and the Grief of Premature Action | voice-checked + reviewed | 3,802 body / 4,424 with footnotes | 2026-04-25 |
 | Ch 8 — The Maker's Dilemma | voice-checked + reviewed | 4,110 body / 4,773 with footnotes | 2026-04-29 |
 | Ch 9 — Architecture as Frozen Worldview | voice-checked + reviewed | 3,607 body / 3,935 with footnotes | 2026-04-30 |
-| Ch 10 — Engineering Beyond Mechanism | first draft | 4,174 body / 4,583 with footnotes | 2026-05-01 |
+| Ch 10 — Engineering Beyond Mechanism | voice-checked + reviewed | 4,312 body / 4,721 with footnotes | 2026-05-01 |
 | Ch 11 — Philosophy in the Age of Wholes | not started | 0 / 4,500 | — |
 | Ch 12 — The Connected Life | not started | 0 / 4,500 | — |
 | Ch 13 — The Developed Person | not started | 0 / 4,500 | — |
